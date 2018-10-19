@@ -3,3 +3,4 @@
 * [feign](https://github.com/OpenFeign/feign)  
 * [hystrix wiki](https://github.com/Netflix/hystrix/wiki)  
 * [turbine wiki](https://github.com/Netflix/turbine/wiki)  
+* [zuul wiki](https://github.com/Netflix/zuul/wiki)  
