@@ -5,3 +5,4 @@
 * [turbine wiki](https://github.com/Netflix/turbine/wiki)  
 * [zuul wiki](https://github.com/Netflix/zuul/wiki)  
 * [sidecar wiki](https://github.com/Netflix/sidecar/wiki)  
+* [elastic guide](https://www.elastic.co/guide/index.html)  
