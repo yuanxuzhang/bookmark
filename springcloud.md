@@ -4,4 +4,4 @@
 * [hystrix wiki](https://github.com/Netflix/hystrix/wiki)  
 * [turbine wiki](https://github.com/Netflix/turbine/wiki)  
 * [zuul wiki](https://github.com/Netflix/zuul/wiki)  
-* [sidecare wiki](https://github.com/Netflix/sidecare/wiki)  
+* [sidecar wiki](https://github.com/Netflix/sidecar/wiki)  
