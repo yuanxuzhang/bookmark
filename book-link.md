@@ -1,3 +1,5 @@
+[gitbook](https://legacy.gitbook.com/)  
+
 [sci-hub.gq](http://sci-hub.gq)  
 [sci-hub.ga](http://sci-hub.ga)  
 [sci-hub.nz](http://sci-hub.nz)  
