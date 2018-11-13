@@ -2,4 +2,4 @@
 
 ## 使用Redux工具调试  
 * 首先，在Chrome中安装[Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)扩展。  
-* 然后，在运行Redux应用程序的终端里使用Ctrl+C停止服务器。并用npm或yarn安装redux-devtools-extension包。
+* 然后，在运行Redux应用程序的终端里使用Ctrl+C停止服务器。并用npm或yarn安装redux-devtools-extension包。yarn add redux-devtools-extension
