@@ -11,3 +11,5 @@
 * [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)
 * [Dealing with Asynchronous APIs in Server-rendered React](https://www.sitepoint.com/asynchronous-apis-server-rendered-react/) 
 * [Build a CRUD App Using React, Redux and FeathersJS](https://www.sitepoint.com/crud-app-react-redux-feathersjs/)   
+--- 
+* [React-SPA](https://github.com/allan2coder/React-SPA)
