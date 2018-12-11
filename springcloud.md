@@ -14,3 +14,5 @@
 ---
 * [logstash](https://github.com/logstash)  
 * [logstash-logback-encoder](https://github.com/logstash/logstash-logback-encoder)  
+---  
+* [spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch)  
