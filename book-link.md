@@ -1,3 +1,5 @@
+[分布式理论](https://github.com/ty4z2008/Qix/blob/master/ds.md)  
+---  
 [gitbook](https://legacy.gitbook.com/)  
 
 [sci-hub.gq](http://sci-hub.gq)  
