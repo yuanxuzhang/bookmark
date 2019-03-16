@@ -13,6 +13,8 @@
 ---
 # inject  
 * [Package javax.inject](http://tool.oschina.net/uploads/apidocs/javaEE6/javax/inject/package-summary.html)  
+* [JSR 330: Dependency Injection for Java](https://www.jcp.org/en/jsr/detail?id=330)  
+
 ---  
 * [apache-commons-net应用曾网络协议实现](http://commons.apache.org/proper/commons-net/)  
 * [oracle-java-doc](https://docs.oracle.com/en/)  
