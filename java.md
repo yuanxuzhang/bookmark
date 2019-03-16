@@ -10,8 +10,12 @@
 # REST 
 * [Jersey](https://github.com/jersey)  
 
+---
+# inject  
+* [Package javax.inject](http://tool.oschina.net/uploads/apidocs/javaEE6/javax/inject/package-summary.html)  
 ---  
 * [apache-commons-net应用曾网络协议实现](http://commons.apache.org/proper/commons-net/)  
 * [oracle-java-doc](https://docs.oracle.com/en/)  
 * [javase-7-docs](https://docs.oracle.com/javase/7/docs/)  
-* [understanding-java-class-loading](https://blogs.oracle.com/sundararajan/understanding-java-class-loading)
+* [understanding-java-class-loading](https://blogs.oracle.com/sundararajan/understanding-java-class-loading)  
+
