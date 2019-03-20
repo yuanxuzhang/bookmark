@@ -16,6 +16,9 @@
 * [JSR 330: Dependency Injection for Java](https://www.jcp.org/en/jsr/detail?id=330)  
 
 ---  
+# JVM  
+[Launches a Java application paramter](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/java.html#BGBJAAEH)
+---
 * [apache-commons-net应用曾网络协议实现](http://commons.apache.org/proper/commons-net/)  
 * [oracle-java-doc](https://docs.oracle.com/en/)  
 * [javase-7-docs](https://docs.oracle.com/javase/7/docs/)  
