@@ -2,8 +2,6 @@
 ---  
 ### JSON--Object 
 * [Jackson](https://github.com/FasterXML/jackson-databind)
-
---- 
 ### XML--Object  
 * [XStream](https://github.com/x-stream/xstream)
 
@@ -17,8 +15,8 @@
 
 ---  
 # JVM  
-[Launches a Java application paramter](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/java.html#BGBJAAEH)
----
+* [Launches a Java application paramter](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/java.html#BGBJAAEH)  
+---  
 * [apache-commons-net应用曾网络协议实现](http://commons.apache.org/proper/commons-net/)  
 * [oracle-java-doc](https://docs.oracle.com/en/)  
 * [javase-7-docs](https://docs.oracle.com/javase/7/docs/)  
