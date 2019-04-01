@@ -17,6 +17,7 @@
 # JVM  
 * [Launches a Java application paramter](https://docs.oracle.com/javase/7/docs/technotes/tools/solaris/java.html#BGBJAAEH)  
 * [the Java application launcher](https://docs.oracle.com/javase/1.5.0/docs/tooldocs/solaris/java.html)  
+* [Using jconsole](https://docs.oracle.com/javase/1.5.0/docs/guide/management/jconsole.html)  
 ---  
 * [apache-commons-net应用曾网络协议实现](http://commons.apache.org/proper/commons-net/)  
 * [oracle-java-doc](https://docs.oracle.com/en/)  
