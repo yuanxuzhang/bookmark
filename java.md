@@ -24,4 +24,5 @@
 ---  
 # JMC  
 * [JMC-Oracle](https://docs.oracle.com/javase/tutorial/jmx/index.html)  
+* [Monitoring and Management Using JMX](https://docs.oracle.com/javase/1.5.0/docs/guide/management/agent.html)  
 
