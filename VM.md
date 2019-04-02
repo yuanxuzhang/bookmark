@@ -4,3 +4,6 @@
 * [详解Virtual Box配置CentOS7网络](https://www.jb51.net/article/102291.htm)  
 * [Virtual Networking](https://www.virtualbox.org/manual/UserManual.html#networkingdetails)  
 
+## Zabbix  
+* [Zabbix从放弃到入门](http://www.zsythink.net/archives/447)  
+
