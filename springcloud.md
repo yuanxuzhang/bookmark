@@ -1,5 +1,6 @@
 ## APM  
 * [Linux 环境下安装 Elasticsearch 5.x、6.x 问题汇总](https://www.jianshu.com/p/fce1474dc6e7)  
+* [Javaagent技术初探](https://www.jianshu.com/p/b2d09a78678d)  
 ## CLOUD
 ---
 * [eureka wiki](https://github.com/Netflix/eureka/wiki)  
