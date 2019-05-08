@@ -21,4 +21,5 @@
 * [spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch)  
 ## SSO  
 * [基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://github.com/hansonwang99/Spring-Boot-In-Action/tree/master/springbt_sso_jwt)  
+* [JSON Web Token 入门教程](http://www.ruanyifeng.com/blog/2018/07/json_web_token-tutorial.html)  
 
