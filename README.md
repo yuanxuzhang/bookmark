@@ -13,3 +13,5 @@
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
 * [Kuboard 是一款基于 Kubernetes 的微服务管理界面](https://kuboard.cn/)
+## Heatmap  
+* [Multivariate_kernel_density_estimation](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation)  
