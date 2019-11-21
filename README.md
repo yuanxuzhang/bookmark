@@ -22,3 +22,4 @@
 ## 代码生成器  
 * [ibootstrap](http://www.ibootstrap.cn/)  
 * [magicalcoder](http://lowcode.magicalcoder.com/element?from=oschina)   
+* [magicalcoder](http://bbs.magicalcoder.com/)  
