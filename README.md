@@ -25,3 +25,5 @@
 * [magicalcoder](http://bbs.magicalcoder.com/)  
 ## JAVA  
 * [oracle-java8](https://docs.oracle.com/javase/8/)  
+## JNDI  
+* [jndi-oracle-tutorial](https://docs.oracle.com/javase/jndi/tutorial/)  
