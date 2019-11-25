@@ -23,3 +23,5 @@
 * [ibootstrap](http://www.ibootstrap.cn/)  
 * [magicalcoder](http://lowcode.magicalcoder.com/element?from=oschina)   
 * [magicalcoder](http://bbs.magicalcoder.com/)  
+## JAVA  
+* [oracle-java8](https://docs.oracle.com/javase/8/)  
