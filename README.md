@@ -28,3 +28,7 @@
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
 ## JNDI  
 * [jndi-oracle-tutorial](https://docs.oracle.com/javase/jndi/tutorial/)  
+## RMI  
+* [oracle-doc](https://docs.oracle.com/javase/tutorial/rmi/index.html)  
+* [java_rmi_introduction](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm)  
+
