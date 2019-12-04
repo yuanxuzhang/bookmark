@@ -31,4 +31,8 @@
 ## RMI  
 * [oracle-doc](https://docs.oracle.com/javase/tutorial/rmi/index.html)  
 * [java_rmi_introduction](https://www.tutorialspoint.com/java_rmi/java_rmi_introduction.htm)  
+## JAVA-SCRIPT   
+* [rhino](https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino/Documentation)  
+* [liveconnect](https://www.oracle.com/technetwork/java/javase/documentation/liveconnect-docs-349790.html)  
+* [scripting-languages-for-java](https://objectcomputing.com/resources/publications/sett/march-2001-scripting-languages-for-java)  
 
