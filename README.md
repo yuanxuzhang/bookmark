@@ -36,4 +36,5 @@
 * [liveconnect](https://www.oracle.com/technetwork/java/javase/documentation/liveconnect-docs-349790.html)  
 * [scripting-languages-for-java](https://objectcomputing.com/resources/publications/sett/march-2001-scripting-languages-for-java)  
 * [oracle-scripting-doc](https://docs.oracle.com/javase/6/docs/technotes/guides/scripting/programmer_guide/index.html)  
+* [javax.script](https://docs.oracle.com/javase/6/docs/api/javax/script/package-summary.html)  
 
