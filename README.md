@@ -35,4 +35,5 @@
 * [rhino](https://developer.mozilla.org/zh-CN/docs/Mozilla/Projects/Rhino/Documentation)  
 * [liveconnect](https://www.oracle.com/technetwork/java/javase/documentation/liveconnect-docs-349790.html)  
 * [scripting-languages-for-java](https://objectcomputing.com/resources/publications/sett/march-2001-scripting-languages-for-java)  
+* [oracle-scripting-doc](https://docs.oracle.com/javase/6/docs/technotes/guides/scripting/programmer_guide/index.html)  
 
