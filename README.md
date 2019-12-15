@@ -42,4 +42,7 @@
 * [docker-install](https://blog.csdn.net/qq_38380025/article/details/80647620)  
 ## MICROSERVICE  
 * [Microservices](https://martinfowler.com/articles/microservices.html)  
+## Workflow  
+* [Activiti 5.22 框架数据库设计说明](http://lucaslz.com/2016/11/15/java/activiti/activiti-db-5-22/#more)  
+* [lemon](http://www.mossle.com/index.do)  
 
