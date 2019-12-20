@@ -14,6 +14,7 @@
 ## Keubernetes  
 * [Kuboard 是一款基于 Kubernetes 的微服务管理界面](https://kuboard.cn/)
 ## Heatmap  
+* [Understanding the Heat Map](https://cartographicperspectives.org/index.php/journal/article/view/cp80-deboer/1420)  
 * [Multivariate_kernel_density_estimation](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation)  
 ## GIS  
 * [GIS Tech Stack技术栈](https://www.jianshu.com/p/3b3efa92dd6d)  
