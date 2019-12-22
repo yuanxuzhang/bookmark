@@ -28,6 +28,8 @@
 ## JAVA  
 * [oracle-java8](https://docs.oracle.com/javase/8/)  
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
+## JAVAEE  
+* [javaee](https://docs.oracle.com/javaee/7/index.html)  
 ## JNDI  
 * [jndi-oracle-tutorial](https://docs.oracle.com/javase/jndi/tutorial/)  
 ## RMI  
