@@ -40,6 +40,8 @@
 * [oracle-scripting-doc](https://docs.oracle.com/javase/6/docs/technotes/guides/scripting/programmer_guide/index.html)  
 * [javax.script](https://docs.oracle.com/javase/6/docs/api/javax/script/package-summary.html)  
 * [JSR 223](https://jcp.org/en/jsr/detail?id=223)  
+## JUEL  
+* [Expression Language](https://docs.oracle.com/javaee/6/tutorial/doc/gjddd.html)  
 ## ORACLE  
 * [docker-install](https://blog.csdn.net/qq_38380025/article/details/80647620)  
 ## MICROSERVICE  
