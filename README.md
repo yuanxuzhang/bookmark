@@ -21,6 +21,7 @@
 * [GIS Tech Stack技术栈](https://www.jianshu.com/p/3b3efa92dd6d)  
 * [Spatial_reference_system](https://en.wikipedia.org/wiki/Spatial_reference_system)  
 * [Proj4Leaflet](https://github.com/kartena/Proj4Leaflet)   
+* [Local Projections in a World of Spherical Mercator](http://www.liedman.net/2012/07/02/local-projections-in-a-world-of-spherical-mercator/)  
 ## ETL  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
 ## 代码生成器  
