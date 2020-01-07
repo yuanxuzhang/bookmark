@@ -22,6 +22,7 @@
 * [Spatial_reference_system](https://en.wikipedia.org/wiki/Spatial_reference_system)  
 * [Proj4Leaflet](https://github.com/kartena/Proj4Leaflet)   
 * [Local Projections in a World of Spherical Mercator](http://www.liedman.net/2012/07/02/local-projections-in-a-world-of-spherical-mercator/)  
+* [The Hitchhacker’s Guide To Tiled Maps](http://www.liedman.net/tiled-maps/)  
 ## ETL  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
 ## 代码生成器  
