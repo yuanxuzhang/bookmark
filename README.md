@@ -9,7 +9,10 @@
 
 * [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)   
 
-* [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))
+* [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))  
+## JDBC  
+* [Issuing a Query and Processing the Result](https://jdbc.postgresql.org/documentation/head/query.html)  
+* [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
