@@ -12,6 +12,7 @@
 * [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))  
 ## JDBC  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
+* [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
