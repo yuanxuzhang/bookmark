@@ -70,4 +70,7 @@
 * [activiti designer without eclipse](https://stackoverflow.com/questions/51930492/activiti-designer-without-eclipse)  
 ## AOP  
 * [Comparing Spring AOP and AspectJ](https://www.baeldung.com/spring-aop-vs-aspectj)  
+## Unit Test 
+* [关于java 单元测试Junit4和Mock的一些总结](https://www.cnblogs.com/wuyun-blog/p/7081548.html)  
+* [mockito](https://www.javadoc.io/doc/org.mockito/mockito-core/2.8.47/org/mockito/Mockito.html)  
 
