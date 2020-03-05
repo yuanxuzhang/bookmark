@@ -27,6 +27,7 @@
 * [Multivariate_kernel_density_estimation](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation)  
 * [Algorithm for heatmap with intensity](https://stackoverflow.com/questions/56030062/algorithm-for-heatmap-with-intensity)  
 ## GIS  
+* [数字地理基础-坐标-行政区域-等等](http://www.zgeo.work/mapbox/#)  
 * [GIS Tech Stack技术栈](https://www.jianshu.com/p/3b3efa92dd6d)  
 * [Spatial_reference_system](https://en.wikipedia.org/wiki/Spatial_reference_system)  
 * [Proj4Leaflet](https://github.com/kartena/Proj4Leaflet)   
