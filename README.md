@@ -39,6 +39,7 @@
 * [Talend](https://community.talend.com/)  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
 * [kettle-neo4j](http://www.kettle.be/)  
+* [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
 * [missfoxw使用总结](https://missfoxw.github.io/pdi-kettle/#/JavaScript%E7%BB%84%E4%BB%B6/README)  
 ## 代码生成器  
 * [ibootstrap](http://www.ibootstrap.cn/)  
