@@ -12,6 +12,8 @@
 * [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))  
 ## JVM  
 * [jclasslib bytecode viewer](https://github.com/ingokegel/jclasslib)  
+* [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)   
+* []()  
 ## JDBC  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 * [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
