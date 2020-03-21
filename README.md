@@ -45,6 +45,9 @@
 * [kettle-neo4j](http://www.kettle.be/)  
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
 * [missfoxw使用总结](https://missfoxw.github.io/pdi-kettle/#/JavaScript%E7%BB%84%E4%BB%B6/README)  
+## Schedule
+* [airflow](http://airflow.apache.org/)  
+* [xxl-job](https://github.com/xuxueli/xxl-job)  
 ## 代码生成器  
 * [ibootstrap](http://www.ibootstrap.cn/)  
 * [magicalcoder](http://lowcode.magicalcoder.com/element?from=oschina)   
