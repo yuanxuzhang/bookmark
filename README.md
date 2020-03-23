@@ -30,6 +30,8 @@
 * [Understanding the Heat Map](https://cartographicperspectives.org/index.php/journal/article/view/cp80-deboer/1420)  
 * [Multivariate_kernel_density_estimation](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation)  
 * [Algorithm for heatmap with intensity](https://stackoverflow.com/questions/56030062/algorithm-for-heatmap-with-intensity)  
+## Intensity Map  
+* [Kriging Interpolation](https://gisgeography.com/kriging-interpolation-prediction/)  
 ## GIS  
 * [数字地理基础-坐标-行政区域-等等](http://www.zgeo.work/mapbox/#)  
 * [GIS Tech Stack技术栈](https://www.jianshu.com/p/3b3efa92dd6d)  
