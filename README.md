@@ -20,8 +20,6 @@
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
-
-
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
@@ -42,6 +40,8 @@
 * [mapschool](https://mapschool.io/)  
 * [The Hitchhacker’s Guide To Tiled Maps](http://www.liedman.net/tiled-maps/)  
 * [raster-layer](https://l7.antv.vision/en/examples/raster/basic)  
+* [15 Free Satellite Imagery Data Sources](https://gisgeography.com/free-satellite-imagery-data-list/)   
+* [30 GIS Software Applications [2020 Rankings]](https://gisgeography.com/free-satellite-imagery-data-list/)  
 ## ETL  
 * [Talend](https://community.talend.com/)  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
