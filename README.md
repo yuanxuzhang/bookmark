@@ -92,4 +92,6 @@
 * [mockito](https://www.javadoc.io/doc/org.mockito/mockito-core/2.8.47/org/mockito/Mockito.html)  
 ## 数据开发  
 * [BI工程师、数据仓库工程师、ETL工程师、数据开发工程师](https://www.zhihu.com/question/37411491)  
+## design-patterns  
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 
