@@ -10,6 +10,8 @@
 * [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)   
 
 * [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))  
+## Specification  
+* [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 ## JVM  
 * [jclasslib bytecode viewer](https://github.com/ingokegel/jclasslib)  
 * [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)   
