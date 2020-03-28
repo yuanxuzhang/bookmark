@@ -99,6 +99,7 @@
 * [business-intelligence](https://github.com/topics/business-intelligence?o=desc&s=stars)  
 * [incubator-superset](https://github.com/apache/incubator-superset)  
 * [grafana](https://github.com/grafana/grafana)  
+* [利用 Kettle + Redash 搭建简单的 BI 系统](https://blog.csdn.net/spardon/article/details/78394868)  
 ## design-patterns  
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 
