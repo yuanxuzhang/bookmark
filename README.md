@@ -94,6 +94,7 @@
 * [关于java 单元测试Junit4和Mock的一些总结](https://www.cnblogs.com/wuyun-blog/p/7081548.html)  
 * [mockito](https://www.javadoc.io/doc/org.mockito/mockito-core/2.8.47/org/mockito/Mockito.html)  
 ## 数据开发  
+* [abstract-awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) 
 * [BI工程师、数据仓库工程师、ETL工程师、数据开发工程师](https://www.zhihu.com/question/37411491)  
 * [business-intelligence](https://github.com/topics/business-intelligence?o=desc&s=stars)  
 * [incubator-superset](https://github.com/apache/incubator-superset)  
