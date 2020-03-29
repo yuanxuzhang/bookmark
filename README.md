@@ -103,5 +103,7 @@
 ## design-patterns  
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 ## DomainModel  
+* [vue-ele-form-generator](https://github.com/dream2023/vue-ele-form-generator)  
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)  
+
 
