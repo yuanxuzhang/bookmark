@@ -46,6 +46,7 @@
 * [30 GIS Software Applications [2020 Rankings]](https://gisgeography.com/free-satellite-imagery-data-list/)  
 ## ETL  
 * [Talend](https://community.talend.com/)  
+* [开源ETL工具-kettle初识](https://zhuanlan.zhihu.com/p/24835051)  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
 * [kettle-neo4j](http://www.kettle.be/)  
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
