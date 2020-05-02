@@ -31,6 +31,7 @@
 * [Multivariate_kernel_density_estimation](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation)  
 * [Algorithm for heatmap with intensity](https://stackoverflow.com/questions/56030062/algorithm-for-heatmap-with-intensity)  
 * [腾讯前端工程师手把手教你实现热力图](https://mp.weixin.qq.com/s/PAEj8Pie5O6RrOmezocpWw)  
+* [Grayscale](https://en.wikipedia.org/wiki/Grayscale)  
 ## Intensity Map  
 * [Kriging Interpolation](https://gisgeography.com/kriging-interpolation-prediction/)  
 * [Inverse Distance Weighting (IDW) Interpolation](https://gisgeography.com/inverse-distance-weighting-idw-interpolation/)  
