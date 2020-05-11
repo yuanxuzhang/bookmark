@@ -111,6 +111,8 @@
 ## Excel  
 * [jxls](http://jxls.sourceforge.net/index.html)  
 * [easyexcel](https://github.com/alibaba/easyexcel)  
+## IDE  
+* [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 
 
 
