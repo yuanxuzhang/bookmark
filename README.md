@@ -113,6 +113,7 @@
 * [easyexcel](https://github.com/alibaba/easyexcel)  
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
+* [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
 
 
 
