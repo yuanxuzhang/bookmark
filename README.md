@@ -80,6 +80,7 @@
 * [JSR 223](https://jcp.org/en/jsr/detail?id=223)  
 ## JUEL  
 * [Expression Language](https://docs.oracle.com/javaee/6/tutorial/doc/gjddd.html)  
+* [commons-jexl](http://commons.apache.org/proper/commons-jexl/index.html)   
 ## ORACLE  
 * [docker-install](https://blog.csdn.net/qq_38380025/article/details/80647620)  
 ## MICROSERVICE  
