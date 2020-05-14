@@ -111,9 +111,11 @@
 ## DomainModel  
 * [vue-ele-form-generator](https://github.com/dream2023/vue-ele-form-generator)  
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)  
-## Excel  
+## Report  
+* [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
 * [easyexcel](https://github.com/alibaba/easyexcel)  
+* [xdocreport](https://github.com/opensagres/xdocreport)  
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
