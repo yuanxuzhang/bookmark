@@ -120,6 +120,7 @@
 * [docx4j](https://github.com/plutext/docx4j)  
 * [jasperreports](https://github.com/TIBCOSoftware/jasperreports)  
 * [ireport-designer](https://community.jaspersoft.com/project/ireport-designer)  
+* [itext7](https://github.com/itext/itext7)  
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
