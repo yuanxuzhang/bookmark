@@ -53,6 +53,7 @@
 * [kettle-neo4j](http://www.kettle.be/)  
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
 * [missfoxw使用总结](https://missfoxw.github.io/pdi-kettle/#/JavaScript%E7%BB%84%E4%BB%B6/README)  
+* [canal](https://github.com/alibaba/canal)  
 ## Schedule
 * [airflow](http://airflow.apache.org/)  
 * [xxl-job](https://github.com/xuxueli/xxl-job)  
@@ -117,6 +118,7 @@
 * [easyexcel](https://github.com/alibaba/easyexcel)  
 * [xdocreport](https://github.com/opensagres/xdocreport)  
 * [docx4j](https://github.com/plutext/docx4j)  
+* [jasperreports](https://github.com/TIBCOSoftware/jasperreports)  
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
