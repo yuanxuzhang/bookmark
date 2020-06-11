@@ -54,6 +54,7 @@
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
 * [missfoxw使用总结](https://missfoxw.github.io/pdi-kettle/#/JavaScript%E7%BB%84%E4%BB%B6/README)  
 * [canal](https://github.com/alibaba/canal)  
+* [数据交换过程详解](https://mp.weixin.qq.com/s/GzxdjpL2q54jt8-Ep2bSRg)  
 ## Schedule
 * [airflow](http://airflow.apache.org/)  
 * [xxl-job](https://github.com/xuxueli/xxl-job)  
