@@ -125,5 +125,7 @@
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
 ## Database  
 * [分布式数据库中间件-shardingsphere](https://github.com/apache/shardingsphere)  
+## Java-Spring  
+* [Spring Boot深度实践之自动装配](https://mp.weixin.qq.com/s/RDSd5_gLwCaloOgg9lJMIA)  
 
 
