@@ -130,3 +130,5 @@
 * [Spring Boot深度实践之自动装配](https://mp.weixin.qq.com/s/RDSd5_gLwCaloOgg9lJMIA)  
 ## Authentication&Authorization
 * [hdiv](https://github.com/hdiv/hdiv)  
+## Tomcat  
+* [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
