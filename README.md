@@ -131,4 +131,6 @@
 ## Authentication&Authorization
 * [hdiv](https://github.com/hdiv/hdiv)  
 ## Tomcat  
+* [Apache Tomcat resources](https://www.mulesoft.com/tcat/understanding-apache-tomcat)  
 * [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
+
