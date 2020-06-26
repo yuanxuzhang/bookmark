@@ -15,6 +15,7 @@
 * [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)   
 * [通过javap命令分析java汇编指令](https://www.jianshu.com/p/6a8997560b05)  
 * [Understanding Java class loading](https://blogs.oracle.com/sundararajan/understanding-java-class-loading)  
+* [结合JVM源码谈Java类加载器](https://cloud.tencent.com/developer/article/1330547)  
 ## JDBC  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 * [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
