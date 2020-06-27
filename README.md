@@ -21,6 +21,8 @@
 * [结合JVM源码谈Java类加载器](https://cloud.tencent.com/developer/article/1330547)  
 * [老大难的 Java ClassLoader，到了该彻底理解它的时候了](https://blog.csdn.net/zezezuiaiya/article/details/84763695)  
 * [SOFAArk 是一款基于 Java 实现的轻量级类隔离容器](https://github.com/sofastack/sofa-ark)  
+* [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
+* [Introduction to Javassist](https://www.baeldung.com/javassist)  
 ## JDBC  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 * [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
