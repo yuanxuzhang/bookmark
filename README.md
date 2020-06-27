@@ -11,6 +11,8 @@
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 ## JVM  
+* [How JVM Works – JVM Architecture?](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)  
+* [Object类中的registerNatives方法的作用深入介绍](https://blog.csdn.net/Saintyyu/article/details/90452826)  
 * [jclasslib bytecode viewer](https://github.com/ingokegel/jclasslib)  
 * [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)   
 * [通过javap命令分析java汇编指令](https://www.jianshu.com/p/6a8997560b05)  
