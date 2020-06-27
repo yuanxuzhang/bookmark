@@ -17,6 +17,7 @@
 * [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se7/html/)   
 * [通过javap命令分析java汇编指令](https://www.jianshu.com/p/6a8997560b05)  
 * [Understanding Java class loading](https://blogs.oracle.com/sundararajan/understanding-java-class-loading)  
+* [Class Loaders in Java【context-classloaders】](https://www.baeldung.com/java-classloaders#context-classloaders)   
 * [结合JVM源码谈Java类加载器](https://cloud.tencent.com/developer/article/1330547)  
 * [老大难的 Java ClassLoader，到了该彻底理解它的时候了](https://blog.csdn.net/zezezuiaiya/article/details/84763695)  
 * [SOFAArk 是一款基于 Java 实现的轻量级类隔离容器](https://github.com/sofastack/sofa-ark)  
