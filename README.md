@@ -98,6 +98,7 @@
 ## MICROSERVICE  
 * [Microservices](https://martinfowler.com/articles/microservices.html)  
 * [微服务分析--微服务几个基本组件](https://blog.csdn.net/haponchang/article/details/90746408)  
+* [Seata-distributed transaction solution](https://github.com/seata/seata)  
 ## Workflow  
 * [Activiti 5.22 框架数据库设计说明](http://lucaslz.com/2016/11/15/java/activiti/activiti-db-5-22/#more)  
 * [lemon](http://www.mossle.com/index.do)  
