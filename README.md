@@ -24,6 +24,7 @@
 * [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
 * [Introduction to Javassist](https://www.baeldung.com/javassist)  
 ## JDBC  
+* [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 * [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
