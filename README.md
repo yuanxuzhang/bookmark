@@ -10,6 +10,7 @@
 * [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)  
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
+* [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
 ## JVM  
 * [How JVM Works – JVM Architecture?](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)  
 * [Object类中的registerNatives方法的作用深入介绍](https://blog.csdn.net/Saintyyu/article/details/90452826)  
@@ -133,6 +134,7 @@
 * [jasperreports](https://github.com/TIBCOSoftware/jasperreports)  
 * [ireport-designer](https://community.jaspersoft.com/project/ireport-designer)  
 * [itext7](https://github.com/itext/itext7)  
+* [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)  
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
