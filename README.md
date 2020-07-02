@@ -76,6 +76,7 @@
 * [oracle-java8](https://docs.oracle.com/javase/8/)  
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
 * [java-tutorials-home](https://data-flair.training/blogs/java-tutorials-home/#tutorials)  
+* [Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)  
 ## JAVAEE  
 * [javaee](https://docs.oracle.com/javaee/7/index.html)  
 ## JNDI  
