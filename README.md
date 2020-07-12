@@ -128,6 +128,7 @@
 ## DomainModel  
 * [vue-ele-form-generator](https://github.com/dream2023/vue-ele-form-generator)  
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)  
+* [Domain-Driven-Design](https://docs.abp.io/en/abp/master/Domain-Driven-Design)  
 ## Report  
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
