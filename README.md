@@ -32,6 +32,7 @@
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
+* [querydsl](http://www.querydsl.com/)  
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
