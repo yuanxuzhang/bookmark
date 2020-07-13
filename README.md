@@ -33,6 +33,7 @@
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
 * [querydsl](http://www.querydsl.com/)  
+* [spring-data-jdbc-references-and-aggregates](https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates)  
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
