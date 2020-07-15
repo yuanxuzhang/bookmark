@@ -26,6 +26,7 @@
 * [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
 * [Introduction to Javassist](https://www.baeldung.com/javassist)  
 * [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
+* [java-reflection-impact-of-setaccessibletrue](https://stackoverflow.com/questions/10638826/java-reflection-impact-of-setaccessibletrue)  
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
