@@ -25,6 +25,7 @@
 * [SOFAArk 是一款基于 Java 实现的轻量级类隔离容器](https://github.com/sofastack/sofa-ark)  
 * [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
 * [Introduction to Javassist](https://www.baeldung.com/javassist)  
+* [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
