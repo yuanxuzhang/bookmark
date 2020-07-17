@@ -130,6 +130,7 @@
 ## Report  
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
+* [A web-based JavaScript（canvas）spreadsheet](https://github.com/myliang/x-spreadsheet)  
 * [easyexcel](https://github.com/alibaba/easyexcel)  
 * [xdocreport](https://github.com/opensagres/xdocreport)  
 * [docx4j](https://github.com/plutext/docx4j)  
