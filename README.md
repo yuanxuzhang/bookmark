@@ -155,6 +155,7 @@
 * [compart-unicode](https://www.compart.com/en/unicode/)  
 * [unicode](https://unicode.org/roadmaps/bmp/)  
 * [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)  
+* [字符代码VS字符编码](https://www.zhihu.com/question/57461614)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
