@@ -147,9 +147,14 @@
 * [Spring Boot深度实践之自动装配](https://mp.weixin.qq.com/s/RDSd5_gLwCaloOgg9lJMIA)  
 ## Authentication&Authorization
 * [hdiv](https://github.com/hdiv/hdiv)  
+* [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
 ## Tomcat  
 * [Apache Tomcat resources](https://www.mulesoft.com/tcat/understanding-apache-tomcat)  
 * [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
+## Character Versus Byte  
+* [compart-unicode](https://www.compart.com/en/unicode/)  
+* [unicode](https://unicode.org/roadmaps/bmp/)  
+* [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
