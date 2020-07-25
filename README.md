@@ -103,6 +103,7 @@
 * [Microservices](https://martinfowler.com/articles/microservices.html)  
 * [微服务分析--微服务几个基本组件](https://blog.csdn.net/haponchang/article/details/90746408)  
 * [Seata-distributed transaction solution](https://github.com/seata/seata)  
+* [CAP theorem - Availability and Partition Tolerance](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance?r=SearchResults)  
 ## Workflow  
 * [Activiti 5.22 框架数据库设计说明](http://lucaslz.com/2016/11/15/java/activiti/activiti-db-5-22/#more)  
 * [lemon](http://www.mossle.com/index.do)  
@@ -156,6 +157,7 @@
 * [unicode](https://unicode.org/roadmaps/bmp/)  
 * [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)  
 * [字符代码VS字符编码](https://www.zhihu.com/question/57461614)  
+* [escape,encodeURI,encodeURIComponent有什么区别?](https://www.zhihu.com/question/21861899/answer/20300871)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
