@@ -131,6 +131,7 @@
 ## Report  
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
+* [easypoi](https://gitee.com/lemur/easypoi)  
 * [A web-based JavaScript（canvas）spreadsheet](https://github.com/myliang/x-spreadsheet)  
 * [easyexcel](https://github.com/alibaba/easyexcel)  
 * [xdocreport](https://github.com/opensagres/xdocreport)  
