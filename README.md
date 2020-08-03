@@ -153,6 +153,10 @@
 ## Tomcat  
 * [Apache Tomcat resources](https://www.mulesoft.com/tcat/understanding-apache-tomcat)  
 * [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
+## Object Serialization  
+* [Java IO: Serializable](http://tutorials.jenkov.com/java-io/serializable.html)  
+* [serializationapi](https://www.oracle.com/technical-resources/articles/java/serializationapi.html)  
+* [Java JSON Tutorial](http://tutorials.jenkov.com/java-json/index.html)  
 ## Character Versus Byte  
 * [compart-unicode](https://www.compart.com/en/unicode/)  
 * [unicode](https://unicode.org/roadmaps/bmp/)  
