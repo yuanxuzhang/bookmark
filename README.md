@@ -158,6 +158,10 @@
 * [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)  
 * [字符代码VS字符编码](https://www.zhihu.com/question/57461614)  
 * [escape,encodeURI,encodeURIComponent有什么区别?](https://www.zhihu.com/question/21861899/answer/20300871)  
+## Code Style Guide  
+* [google-java-guide](https://google.github.io/styleguide/javaguide.html)  
+* [uber-go-guide](https://github.com/uber-go/guide/blob/master/style.md)  
+* [go-standards-project-layout](https://github.com/golang-standards/project-layout)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
