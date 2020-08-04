@@ -29,7 +29,7 @@
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
-* [querydsl](http://www.querydsl.com/)  
+* [querydsl](http://www.querydsl.com/)    
 * [spring-data-jdbc-references-and-aggregates](https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates)  
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
@@ -75,6 +75,7 @@
 ## JAVA  
 * [oracle-java8](https://docs.oracle.com/javase/8/)  
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
+* [tutorial-java](https://docs.oracle.com/javase/tutorial/java/)
 * [java-tutorials-home](https://data-flair.training/blogs/java-tutorials-home/#tutorials)  
 * [Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)  
 ## JAVAEE  
@@ -163,6 +164,7 @@
 * [Unicode 和 UTF-8 有什么区别？](https://www.zhihu.com/question/23374078)  
 * [字符代码VS字符编码](https://www.zhihu.com/question/57461614)  
 * [escape,encodeURI,encodeURIComponent有什么区别?](https://www.zhihu.com/question/21861899/answer/20300871)  
+* [oracle-java-data](https://docs.oracle.com/javase/tutorial/java/data/index.html)  
 ## Code Style Guide  
 * [google-java-guide](https://google.github.io/styleguide/javaguide.html)  
 * [uber-go-guide](https://github.com/uber-go/guide/blob/master/style.md)  
