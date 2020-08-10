@@ -18,15 +18,15 @@
 * [结合JVM源码谈Java类加载器](https://cloud.tencent.com/developer/article/1330547)  
 * [老大难的 Java ClassLoader，到了该彻底理解它的时候了](https://blog.csdn.net/zezezuiaiya/article/details/84763695)  
 * [SOFAArk 是一款基于 Java 实现的轻量级类隔离容器](https://github.com/sofastack/sofa-ark)  
-* [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
-* [Introduction to Javassist](https://www.baeldung.com/javassist)  
 * [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
 * [java-reflection-impact-of-setaccessibletrue](https://stackoverflow.com/questions/10638826/java-reflection-impact-of-setaccessibletrue)  
 ## Agent JVM  
+* [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
 * [通过使用 Byte Buddy，便捷地创建 Java Agent](https://www.infoq.cn/article/Easily-Create-Java-Agents-with-ByteBuddy)  
 * [byte-buddy](https://github.com/raphw/byte-buddy)  
 * [javassist](https://github.com/jboss-javassist/javassist)  
 * [cglib](https://github.com/cglib/cglib)  
+* [asm](https://asm.ow2.io/)  
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
