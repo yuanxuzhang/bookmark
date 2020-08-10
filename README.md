@@ -23,8 +23,10 @@
 * [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
 * [java-reflection-impact-of-setaccessibletrue](https://stackoverflow.com/questions/10638826/java-reflection-impact-of-setaccessibletrue)  
 ## Agent JVM  
-* [通过使用 Byte Buddy，便捷地创建 Java Agent(https://www.infoq.cn/article/Easily-Create-Java-Agents-with-ByteBuddy  
+* [通过使用 Byte Buddy，便捷地创建 Java Agent](https://www.infoq.cn/article/Easily-Create-Java-Agents-with-ByteBuddy)  
 * [byte-buddy](https://github.com/raphw/byte-buddy)  
+* [javassist](https://github.com/jboss-javassist/javassist)  
+* [cglib](https://github.com/cglib/cglib)  
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
@@ -131,7 +133,7 @@
 ## DomainModel  
 * [vue-ele-form-generator](https://github.com/dream2023/vue-ele-form-generator)  
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)  
-* [Domain-Driven-Design](https://docs.abp.io/en/abp/master/Domain-Driven-Design)  
+* [Domain-Driven-Design](https://docs.abp.io/en/abp/master/Domain-Driven-Design)   
 ## Report  
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
