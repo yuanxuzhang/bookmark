@@ -22,6 +22,9 @@
 * [Introduction to Javassist](https://www.baeldung.com/javassist)  
 * [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
 * [java-reflection-impact-of-setaccessibletrue](https://stackoverflow.com/questions/10638826/java-reflection-impact-of-setaccessibletrue)  
+## Agent JVM  
+* [通过使用 Byte Buddy，便捷地创建 Java Agent(https://www.infoq.cn/article/Easily-Create-Java-Agents-with-ByteBuddy  
+* [byte-buddy](https://github.com/raphw/byte-buddy)  
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
@@ -175,6 +178,6 @@
 * [css](css.md)  
 * [你真的会使用XMLHttpRequest吗？](https://segmentfault.com/a/1190000004322487)   
 * [win-firewall](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-R2-and-2008/cc732283(v=ws.10))   
-* [EXT-API](https://docs.sencha.com/extjs/7.0.0/modern/Ext.html)  
+* [EXT-API](https://docs.sencha.com/extjs/7.0.0/modern/Ext.html)   
 
 
