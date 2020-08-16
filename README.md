@@ -20,6 +20,8 @@
 * [SOFAArk 是一款基于 Java 实现的轻量级类隔离容器](https://github.com/sofastack/sofa-ark)  
 * [getFields vs getDeclaredFields](https://stackoverflow.com/questions/16966629/what-is-the-difference-between-getfields-and-getdeclaredfields-in-java-reflectio)  
 * [java-reflection-impact-of-setaccessibletrue](https://stackoverflow.com/questions/10638826/java-reflection-impact-of-setaccessibletrue)  
+## Garbage Collection  
+* [garbage-collection-java](https://www.geeksforgeeks.org/garbage-collection-java/)  
 ## Agent JVM  
 * [基于 Javassist 和 Javaagent 实现动态切面](https://www.cnblogs.com/chiangchou/p/javassist.html)  
 * [Guide to Java Instrumentation](https://www.baeldung.com/java-instrumentation)  
@@ -32,7 +34,7 @@
 ## JDBC  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
-* [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)  
+* [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)   
 * [The PostgreSQL JDBC Interface](https://jdbc.postgresql.org/documentation/head/)  
 * [Issuing a Query and Processing the Result_Postgresql](https://jdbc.postgresql.org/documentation/head/query.html)  
 * [Connection Pools and Data Sources_Postgresql](https://jdbc.postgresql.org/documentation/head/datasource.html)  
