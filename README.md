@@ -178,6 +178,8 @@
 * [google-java-guide](https://google.github.io/styleguide/javaguide.html)  
 * [uber-go-guide](https://github.com/uber-go/guide/blob/master/style.md)  
 * [go-standards-project-layout](https://github.com/golang-standards/project-layout)  
+## Database Sharding  
+* [spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource](https://www.websparrow.org/spring/spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
