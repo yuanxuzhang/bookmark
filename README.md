@@ -182,8 +182,9 @@
 * [go-standards-project-layout](https://github.com/golang-standards/project-layout)  
 ## Database Sharding  
 * [spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource](https://www.websparrow.org/spring/spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource)  
-## Spring  
+## Spring boot  
 * [how-springboot-autoconfiguration-magic](https://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)  
+* [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
