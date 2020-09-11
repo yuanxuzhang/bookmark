@@ -185,6 +185,8 @@
 ## Spring boot  
 * [how-springboot-autoconfiguration-magic](https://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)  
 * [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)  
+## Javascript  
+* [cross-window-communication](https://javascript.info/cross-window-communication)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
