@@ -88,6 +88,7 @@
 * [tutorial-java](https://docs.oracle.com/javase/tutorial/java/)
 * [java-tutorials-home](https://data-flair.training/blogs/java-tutorials-home/#tutorials)  
 * [Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)  
+* [Tech Tutorials](https://www.netjstech.com/2015/05/java-advanced-topics.html)  
 ## JAVAEE  
 * [javaee](https://docs.oracle.com/javaee/7/index.html)  
 ## JNDI  
