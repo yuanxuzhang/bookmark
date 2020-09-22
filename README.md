@@ -181,6 +181,7 @@
 * [google-java-guide](https://google.github.io/styleguide/javaguide.html)  
 * [uber-go-guide](https://github.com/uber-go/guide/blob/master/style.md)  
 * [go-standards-project-layout](https://github.com/golang-standards/project-layout)  
+* [sonarsource-rules](https://rules.sonarsource.com/)  
 ## Database Sharding  
 * [spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource](https://www.websparrow.org/spring/spring-boot-dynamic-datasource-routing-using-abstractroutingdatasource)  
 ## Spring boot  
