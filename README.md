@@ -199,7 +199,7 @@
 * [reactivex](http://reactivex.io/)  
 ## Machine learning  
 * [Tribuo](https://github.com/oracle/tribuo)  
-## Single sign on  
+## Single sign on SSO
 * [jwt-introduction](https://jwt.io/introduction/)   
 * [java-jwt](https://github.com/auth0/java-jwt)   
 ## BookMark  
