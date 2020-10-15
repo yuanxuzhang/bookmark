@@ -5,6 +5,7 @@
 ## HTTP & Javascript  
 * [fetch](https://fetch.spec.whatwg.org/)  
 * [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)  
+* [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
