@@ -165,9 +165,10 @@
 * [分布式数据库中间件-shardingsphere](https://github.com/apache/shardingsphere)  
 ## Java-Spring  
 * [Spring Boot深度实践之自动装配](https://mp.weixin.qq.com/s/RDSd5_gLwCaloOgg9lJMIA)  
-## Authentication&Authorization
+## Authentication&Authorization auth
 * [hdiv](https://github.com/hdiv/hdiv)  
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
+* [httponly-cookie](https://www.cookiepro.com/knowledge/httponly-cookie/)  
 ## Tomcat  
 * [Apache Tomcat resources](https://www.mulesoft.com/tcat/understanding-apache-tomcat)  
 * [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
