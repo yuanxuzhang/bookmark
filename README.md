@@ -11,6 +11,10 @@
 ## Authentication&Authorization auth
 * [hdiv](https://github.com/hdiv/hdiv)  
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
+* [securing-services-with-spring-cloud-gateway](https://spring.io/blog/2019/08/16/securing-services-with-spring-cloud-gateway)    
+## Single sign on SSO
+* [jwt-introduction](https://jwt.io/introduction/)   
+* [java-jwt](https://github.com/auth0/java-jwt)   
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
@@ -202,9 +206,6 @@
 * [reactivex](http://reactivex.io/)  
 ## Machine learning  
 * [Tribuo](https://github.com/oracle/tribuo)  
-## Single sign on SSO
-* [jwt-introduction](https://jwt.io/introduction/)   
-* [java-jwt](https://github.com/auth0/java-jwt)   
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
