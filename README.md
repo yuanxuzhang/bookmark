@@ -10,6 +10,7 @@
 * [the-httponly-flag-protecting-cookies-against-xss](https://securityboulevard.com/2020/08/the-httponly-flag-protecting-cookies-against-xss/)  
 ## Gateway  
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
+* [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
 ## Authentication&Authorization auth
 * [hdiv](https://github.com/hdiv/hdiv)  
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
