@@ -15,7 +15,8 @@
 * [hdiv](https://github.com/hdiv/hdiv)  
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
 * [securing-services-with-spring-cloud-gateway](https://spring.io/blog/2019/08/16/securing-services-with-spring-cloud-gateway)    
-## Single sign on SSO
+## Single sign on SSO  
+* [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 * [jwt-introduction](https://jwt.io/introduction/)   
 * [java-jwt](https://github.com/auth0/java-jwt)   
 ## Specification  
