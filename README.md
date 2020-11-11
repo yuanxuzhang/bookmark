@@ -18,6 +18,8 @@
 ## Single sign on SSO  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 * [oauth2](https://tools.ietf.org/html/rfc6749)  
+* [oauth-net](https://oauth.net/)  
+* [oauth-okta](https://www.oauth.com/)  
 * [jwt-introduction](https://jwt.io/introduction/)   
 * [java-jwt](https://github.com/auth0/java-jwt)   
 ## Specification  
