@@ -22,6 +22,7 @@
 * [oauth-okta](https://www.oauth.com/)  
 * [jwt-introduction](https://jwt.io/introduction/)   
 * [java-jwt](https://github.com/auth0/java-jwt)   
+* [jwt-rfc](https://tools.ietf.org/html/rfc7519)  
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
