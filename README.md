@@ -8,7 +8,7 @@
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
 * [httponly-cookie](https://www.cookiepro.com/knowledge/httponly-cookie/)  
 * [the-httponly-flag-protecting-cookies-against-xss](https://securityboulevard.com/2020/08/the-httponly-flag-protecting-cookies-against-xss/)  
-* [XSS跨站脚本攻击](https://www.jianshu.com/p/4b31dd728c6f)  
+* [XSS跨站脚本攻击-用户对网站的信任](https://www.jianshu.com/p/4b31dd728c6f)  
 ## Gateway  
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
 * [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
