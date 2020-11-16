@@ -18,8 +18,9 @@
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
 * [securing-services-with-spring-cloud-gateway](https://spring.io/blog/2019/08/16/securing-services-with-spring-cloud-gateway)    
 ## Single sign on SSO  
+* [jose](https://jose.readthedocs.io/en/latest/)  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
-* [oauth2](https://tools.ietf.org/html/rfc6749)  
+* [oauth2-rfc](https://tools.ietf.org/html/rfc6749)  
 * [oauth-net](https://oauth.net/)  
 * [oauth-okta](https://www.oauth.com/)  
 * [jwt-introduction](https://jwt.io/introduction/)   
