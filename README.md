@@ -17,6 +17,8 @@
 * [hdiv](https://github.com/hdiv/hdiv)  
 * [微服务平台之API授权](https://mp.weixin.qq.com/s/2QXLrTNsexWHtXh6LiGIzw)  
 * [securing-services-with-spring-cloud-gateway](https://spring.io/blog/2019/08/16/securing-services-with-spring-cloud-gateway)    
+* [github-authorizing-oauth-apps-old](https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/)   
+* [github-authorizing-oauth-apps](https://docs.github.com/en/free-pro-team@latest/developers/apps/authorizing-oauth-apps)   
 ## Single sign on SSO  
 * [jose](https://jose.readthedocs.io/en/latest/)  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
