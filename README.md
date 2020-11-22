@@ -221,7 +221,9 @@
 ## Reactive Program  
 * [reactivex](http://reactivex.io/)  
 ## Machine learning  
-* [Tribuo](https://github.com/oracle/tribuo)  
+* [Tribuo](https://github.com/oracle/tribuo)   
+## algorithm  
+* [raft](https://raft.github.io/)  
 ## BookMark  
 * [孕期、月子、育儿等经验及知识汇总](http://tieba.baidu.com/p/4118542244?red_tag=f2306017352)  
 * [book-link](book-link.md)    
