@@ -4,7 +4,9 @@
 * [开源在线 Markdown-editor](http://editor.md.ipandao.com/)  
 ## Java Concurrent  
 * [completablefuture](https://www.baeldung.com/java-completablefuture)  
-## HTTP & Javascript  
+## Web HTTP & Javascript  
+* [w3c-HTML Living Standard](https://html.spec.whatwg.org/)  
+* [w3c-html401](https://www.w3.org/TR/html401/)  
 * [fetch](https://fetch.spec.whatwg.org/)  
 * [CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)  
 * [跨域资源共享 CORS 详解](http://www.ruanyifeng.com/blog/2016/04/cors.html)  
