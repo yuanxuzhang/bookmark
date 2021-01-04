@@ -241,5 +241,7 @@
 * [EXT-API](https://docs.sencha.com/extjs/7.0.0/modern/Ext.html)   
 ##　Information retrieve  
 * [elastic-search-in-action](https://github.com/medcl/book-elastic-search-in-action)   
+## Script 
+* [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)    
 
 
