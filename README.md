@@ -244,5 +244,7 @@
 * [elastic-search-in-action](https://github.com/medcl/book-elastic-search-in-action)   
 ## Script 
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)    
+## Thread  
+* [MDC And Managed Threads](http://logback.qos.ch/manual/mdc.html)  
 
 
