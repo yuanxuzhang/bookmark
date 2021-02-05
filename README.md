@@ -1,5 +1,7 @@
 ## 
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
+## Principle  
+* [12factor app](https://12factor.net/zh_cn/)  
 ## Markdown demo  
 * [editor csdn md](https://editor.csdn.net/md/)   
 ## Tool  
