@@ -34,6 +34,7 @@
 * [jose](https://jose.readthedocs.io/en/latest/)  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
 * [oauth2-rfc](https://tools.ietf.org/html/rfc6749)  
+* [OAuth 2.0 Token Introspection](https://tools.ietf.org/html/rfc7662)  
 * [oauth-net](https://oauth.net/)  
 * [oauth-okta](https://www.oauth.com/)  
 * [jwt-introduction](https://jwt.io/introduction/)   
