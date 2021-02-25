@@ -252,5 +252,7 @@
 * [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)    
 ## Thread  
 * [MDC And Managed Threads](http://logback.qos.ch/manual/mdc.html)  
+## GraphQL  
+* [开始使用GraphQL Java和Spring Boot](https://juejin.cn/post/6844903795537739784)  
 
 
