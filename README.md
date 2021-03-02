@@ -20,6 +20,7 @@
 * [the-httponly-flag-protecting-cookies-against-xss](https://securityboulevard.com/2020/08/the-httponly-flag-protecting-cookies-against-xss/)  
 * [XSS跨站脚本攻击-用户对网站的信任](https://www.jianshu.com/p/4b31dd728c6f)  
 * [跨站请求伪造-网站对用户网页浏览器的信任](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)  
+* [Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231#page-38)  
 ## Gateway  
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
 * [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
