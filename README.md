@@ -43,6 +43,7 @@
 * [java-jwt](https://github.com/auth0/java-jwt)   
 * [jwt-rfc](https://tools.ietf.org/html/rfc7519)  
 * [Where to Store your JWTs – Cookies vs HTML5 Web Storage](https://stormpath.com/blog/where-to-store-your-jwts-cookies-vs-html5-web-storage)  
+* [Welcome to OpenID Connect](https://openid.net/connect/)   
 ## Specification  
 * [Rest API-OpenAPI Specification](https://swagger.io/specification/)  
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
