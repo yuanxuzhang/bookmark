@@ -180,6 +180,7 @@
 * [incubator-superset](https://github.com/apache/incubator-superset)  
 * [grafana](https://github.com/grafana/grafana)  
 * [利用 Kettle + Redash 搭建简单的 BI 系统](https://blog.csdn.net/spardon/article/details/78394868)  
+* [ELKI Data Mining Toolkit](https://github.com/elki-project/elki)  
 ## design-patterns  
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 ## DomainModel  
