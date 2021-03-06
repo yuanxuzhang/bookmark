@@ -181,6 +181,7 @@
 * [grafana](https://github.com/grafana/grafana)  
 * [利用 Kettle + Redash 搭建简单的 BI 系统](https://blog.csdn.net/spardon/article/details/78394868)  
 * [ELKI Data Mining Toolkit](https://github.com/elki-project/elki)  
+* [Davinci is a DVsaaS (Data Visualization as a Service) ](Platform  https://github.com/edp963/davinci)  
 ## design-patterns  
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 ## DomainModel  
