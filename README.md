@@ -109,7 +109,8 @@
 * [30 GIS Software Applications [2020 Rankings]](https://gisgeography.com/free-satellite-imagery-data-list/)  
 ## ETL  
 * [Talend](https://community.talend.com/)  
-* [开源ETL工具-kettle初识](https://zhuanlan.zhihu.com/p/24835051)  
+* [开源ETL工具-
+初识](https://zhuanlan.zhihu.com/p/24835051)  
 * [KETTLE-8.3-DOC](https://help.pentaho.com/Documentation/8.3)  
 * [kettle-neo4j](http://www.kettle.be/)  
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
@@ -117,6 +118,8 @@
 * [canal](https://github.com/alibaba/canal)  
 * [maxwell](https://github.com/zendesk/maxwell)  
 * [数据交换过程详解](https://mp.weixin.qq.com/s/GzxdjpL2q54jt8-Ep2bSRg)  
+* [基于Kettle快速构建基础数据仓库平台](https://mp.weixin.qq.com/s/6Sw59ZkWgxV7zj9ljRva6Q)  
+* [KETTLE使用中的20个常见问题](https://www.freesion.com/article/6529696645/)  
 ## Schedule
 * [airflow](http://airflow.apache.org/)  
 * [xxl-job](https://github.com/xuxueli/xxl-job)  
