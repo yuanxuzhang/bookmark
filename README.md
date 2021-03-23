@@ -264,5 +264,6 @@
 ## GraphQL  
 * [开始使用GraphQL Java和Spring Boot](https://juejin.cn/post/6844903795537739784)  
 * [A GraphQL to SQL query execution layer for query planning and batch data fetching](https://github.com/join-monster/join-monster)   
+* [Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events](https://github.com/hasura/graphql-engine/)    
 
 
