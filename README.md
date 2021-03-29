@@ -266,5 +266,6 @@
 * [A GraphQL to SQL query execution layer for query planning and batch data fetching](https://github.com/join-monster/join-monster)   
 * [Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events](https://github.com/hasura/graphql-engine/) 
 * [Real world GraphQL tutorials for frontend developers with deadlines!](https://hasura.io/learn/graphql/intro-graphql/introduction/)     
+* [Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users](https://directus.io/)  
 
 
