@@ -269,5 +269,6 @@
 * [Real world GraphQL tutorials for frontend developers with deadlines!](https://hasura.io/learn/graphql/intro-graphql/introduction/)     
 * [Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users](https://directus.io/)  
 * [List of content management systems-CMS](https://en.wikipedia.org/wiki/List_of_content_management_systems)  
+* [NReco-GraphQL-to-SQL](https://www.nrecosite.com/graphql/)  
 
 
