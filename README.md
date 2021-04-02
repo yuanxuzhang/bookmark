@@ -271,5 +271,6 @@
 * [List of content management systems-CMS](https://en.wikipedia.org/wiki/List_of_content_management_systems)  
 * [NReco-GraphQL-to-SQL](https://www.nrecosite.com/graphql/)  
 * [A GraphQL to SQL query execution layer for query planning and batch data fetching](https://github.com/join-monster/join-monster)  
+* [On GraphQL-to-SQL](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql)  
 
 
