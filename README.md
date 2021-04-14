@@ -121,6 +121,7 @@
 * [About Source-agnostic distributed change data capture system](https://github.com/linkedin/databus)  
 * [ogg-Introduction to Oracle GoldenGate](https://docs.oracle.com/goldengate/1212/gg-winux/GWUAD/wu_about_gg.htm#GWUAD110)  
 * [maxwell](https://github.com/zendesk/maxwell)  
+* [Fast & Flexible Database Replication](https://www.symmetricds.org/)  
 * [数据交换过程详解](https://mp.weixin.qq.com/s/GzxdjpL2q54jt8-Ep2bSRg)  
 * [基于Kettle快速构建基础数据仓库平台](https://mp.weixin.qq.com/s/6Sw59ZkWgxV7zj9ljRva6Q)  
 * [KETTLE使用中的20个常见问题](https://www.freesion.com/article/6529696645/)  
