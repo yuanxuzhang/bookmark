@@ -275,5 +275,8 @@
 * [NReco-GraphQL-to-SQL](https://www.nrecosite.com/graphql/)  
 * [A GraphQL to SQL query execution layer for query planning and batch data fetching](https://github.com/join-monster/join-monster)  
 * [On GraphQL-to-SQL](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql)  
+* [GraphQL for databases: A layer for universal database access?](https://www.zdnet.com/article/graphql-for-databases-a-layer-for-universal-database-access/)  
+* [Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)  
+* [GraphQL interface for querying and serving linked data on the Web.](https://github.com/hypergraphql/hypergraphql)      
 
 
