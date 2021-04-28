@@ -279,5 +279,6 @@
 * [GraphQL for databases: A layer for universal database access?](https://www.zdnet.com/article/graphql-for-databases-a-layer-for-universal-database-access/)  
 * [Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)  
 * [GraphQL interface for querying and serving linked data on the Web.](https://github.com/hypergraphql/hypergraphql)      
+* [GraphQL for Java with Spring Boot made easy.](https://github.com/Netflix/dgs-framework)  
 
 
