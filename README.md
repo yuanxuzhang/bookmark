@@ -10,6 +10,7 @@
 * [开源在线 Markdown-editor](http://editor.md.ipandao.com/)  
 ## Java Concurrent  
 * [completablefuture](https://www.baeldung.com/java-completablefuture)  
+* [IBM - how ConcurrentHashMap offers higher concurrency without compromising thread safety](https://www.ibm.com/developerworks/java/library/j-jtp08223/j-jtp08223-pdf.pdf)  
 ## Web HTTP & Javascript  
 * [w3c-HTML Living Standard](https://html.spec.whatwg.org/)  
 * [w3c-html401](https://www.w3.org/TR/html401/)  
