@@ -85,6 +85,7 @@
 * [querydsl](http://www.querydsl.com/)    
 * [spring-data-jdbc-references-and-aggregates](https://spring.io/blog/2018/09/24/spring-data-jdbc-references-and-aggregates)  
 * [jOOQ is the best way to write SQL in Java](https://github.com/jOOQ/jOOQ)  
+* [SQL Query Builders](https://github.com/jahlborn/sqlbuilder)  
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
