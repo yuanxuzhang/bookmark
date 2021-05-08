@@ -87,6 +87,7 @@
 * [jOOQ is the best way to write SQL in Java](https://github.com/jOOQ/jOOQ)  
 * [SQL Query Builders](https://github.com/jahlborn/sqlbuilder)  
 * [A dynamic SQL builder for Java language](https://github.com/jonathanhds/sql-builder)  
+* [JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern](https://github.com/JSQLParser/JSqlParser)  
 ## Docker  
 * [Docker — 从入门到实践](https://yeasy.gitbooks.io/docker_practice/?tdsourcetag=s_pcqq_aiomsg)  
 ## Keubernetes  
