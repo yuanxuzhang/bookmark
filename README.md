@@ -1,4 +1,5 @@
 ## 
+* [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
 ## Distributed System  
 * [Choosing distribution models: master-slave versus peer-to-peer](https://sungsoo.github.io/2014/06/07/choosing-distribution-models-mater-slave-versus-peer-to-peer.html)  
