@@ -287,5 +287,6 @@
 * [Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)  
 * [GraphQL interface for querying and serving linked data on the Web.](https://github.com/hypergraphql/hypergraphql)      
 * [GraphQL for Java with Spring Boot made easy.](https://github.com/Netflix/dgs-framework)  
+* [Simple GraphQL Query Builder](https://github.com/atulmy/gql-query-builder)  
 
 
