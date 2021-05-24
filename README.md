@@ -288,5 +288,6 @@
 * [GraphQL interface for querying and serving linked data on the Web.](https://github.com/hypergraphql/hypergraphql)      
 * [GraphQL for Java with Spring Boot made easy.](https://github.com/Netflix/dgs-framework)  
 * [Simple GraphQL Query Builder](https://github.com/atulmy/gql-query-builder)  
+* [How to Use Typescript Modules with Browserify](https://www.pluralsight.com/guides/how-to-use-typescript-modules-with-browserify)  
 
 
