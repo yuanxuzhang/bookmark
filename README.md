@@ -13,7 +13,7 @@
 ## Java Concurrent  
 * [completablefuture](https://www.baeldung.com/java-completablefuture)  
 * [IBM - how ConcurrentHashMap offers higher concurrency without compromising thread safety](https://www.ibm.com/developerworks/java/library/j-jtp08223/j-jtp08223-pdf.pdf)  
-## Web HTTP & Javascript  
+## Web HTTP  
 * [w3c-HTML Living Standard](https://html.spec.whatwg.org/)  
 * [w3c-html401](https://www.w3.org/TR/html401/)  
 * [fetch](https://fetch.spec.whatwg.org/)  
@@ -24,6 +24,9 @@
 * [XSS跨站脚本攻击-用户对网站的信任](https://www.jianshu.com/p/4b31dd728c6f)  
 * [跨站请求伪造-网站对用户网页浏览器的信任](https://zh.wikipedia.org/wiki/%E8%B7%A8%E7%AB%99%E8%AF%B7%E6%B1%82%E4%BC%AA%E9%80%A0)  
 * [Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231#page-38)  
+## Javascript  
+* [cross-window-communication](https://javascript.info/cross-window-communication)  
+* [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
 ## Gateway  
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
 * [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
@@ -248,9 +251,6 @@
 ## Spring boot  
 * [how-springboot-autoconfiguration-magic](https://sivalabs.in/2016/03/how-springboot-autoconfiguration-magic/)  
 * [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)  
-## Javascript  
-* [cross-window-communication](https://javascript.info/cross-window-communication)  
-* [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
 ## Cloud native  
 * [Can you expose your microservices with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway)  
 ## Reactive Program  
