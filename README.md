@@ -250,6 +250,7 @@
 * [@ConfigurationProperties](https://www.baeldung.com/configuration-properties-in-spring-boot)  
 ## Javascript  
 * [cross-window-communication](https://javascript.info/cross-window-communication)  
+* [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
 ## Cloud native  
 * [Can you expose your microservices with an API gateway in Kubernetes?](https://learnk8s.io/kubernetes-ingress-api-gateway)  
 ## Reactive Program  
