@@ -27,6 +27,7 @@
 ## Javascript  
 * [cross-window-communication](https://javascript.info/cross-window-communication)  
 * [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
+* [AMD 规范](https://github.com/amdjs/amdjs-api/wiki/AMD-(%E4%B8%AD%E6%96%87%E7%89%88))  
 ## Gateway  
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
 * [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
