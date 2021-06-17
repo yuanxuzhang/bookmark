@@ -1,4 +1,5 @@
 ## 
+* [Spring Security Quick Start Example](https://www.logicbig.com/tutorials/spring-framework/spring-security/web-security-quick-start.html)   
 * [Java Design Patterns](https://java-design-patterns.com/)  
 * [java-design-patterns-github](https://github.com/iluwatar/java-design-patterns)  
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
