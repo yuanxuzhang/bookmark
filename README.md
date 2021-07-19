@@ -1,4 +1,5 @@
 ## 
+* [How to spoil the fish with salt and pepper](https://www.martinstoeckli.ch/hash/en/index.php)  
 * [Bouncy Castle](https://github.com/bcgit/bc-java)  
 * [Spring Core Tutorials](https://www.logicbig.com/tutorials/spring-framework/spring-core.html)  
 * [Spring Security Quick Start Example](https://www.logicbig.com/tutorials/spring-framework/spring-security/web-security-quick-start.html)   
