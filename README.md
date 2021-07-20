@@ -43,6 +43,7 @@
 * [github-authorizing-oauth-apps](https://docs.github.com/en/free-pro-team@latest/developers/apps/authorizing-oauth-apps)   
 * [github-scopes-for-oauth-apps](https://docs.github.com/en/free-pro-team@latest/developers/apps/scopes-for-oauth-apps)  
 * [Huwwei开放平台鉴权](https://developer.huawei.com/consumer/cn/doc/30101)  
+* [An authorization library that supports access control models like ACL, RBAC, ABAC in Java](https://github.com/casbin/jcasbin)  
 ## Single sign on SSO  
 * [jose](https://jose.readthedocs.io/en/latest/)  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
