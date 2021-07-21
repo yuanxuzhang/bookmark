@@ -1,5 +1,6 @@
 ## 
 * [How to spoil the fish with salt and pepper](https://www.martinstoeckli.ch/hash/en/index.php)  
+* [The Seven Steps of Role Engineering](https://iamfortress.net/2015/03/05/the-seven-steps-of-role-engineering/)  
 * [Bouncy Castle](https://github.com/bcgit/bc-java)  
 * [Spring Core Tutorials](https://www.logicbig.com/tutorials/spring-framework/spring-core.html)  
 * [Spring Security Quick Start Example](https://www.logicbig.com/tutorials/spring-framework/spring-security/web-security-quick-start.html)   
