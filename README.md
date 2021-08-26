@@ -300,5 +300,8 @@
 * [GraphQL for Java with Spring Boot made easy.](https://github.com/Netflix/dgs-framework)  
 * [Simple GraphQL Query Builder](https://github.com/atulmy/gql-query-builder)  
 * [How to Use Typescript Modules with Browserify](https://www.pluralsight.com/guides/how-to-use-typescript-modules-with-browserify)  
+## Security  
+* [Basic Intro to Elliptic Curve Cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)  
+* [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)   
 
 
