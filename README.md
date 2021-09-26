@@ -300,11 +300,12 @@
 * [A GraphQL to SQL query execution layer for query planning and batch data fetching](https://github.com/join-monster/join-monster)  
 * [On GraphQL-to-SQL](https://productionreadygraphql.com/blog/2020-05-21-graphql-to-sql)  
 * [GraphQL for databases: A layer for universal database access?](https://www.zdnet.com/article/graphql-for-databases-a-layer-for-universal-database-access/)  
-* [Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile)  
+* [Execute one command (or mount one Node.js middleware) and get an instant high-performance GraphQL API for your PostgreSQL database!](https://github.com/graphile/postgraphile) 
 * [GraphQL interface for querying and serving linked data on the Web.](https://github.com/hypergraphql/hypergraphql)      
 * [GraphQL for Java with Spring Boot made easy.](https://github.com/Netflix/dgs-framework)  
 * [Simple GraphQL Query Builder](https://github.com/atulmy/gql-query-builder)  
 * [How to Use Typescript Modules with Browserify](https://www.pluralsight.com/guides/how-to-use-typescript-modules-with-browserify)  
+* * [GraphQL Calculator是一款轻量级查询计算引擎，为graphql查询提供了动态计算的能力](https://github.com/graphql-calculator/graphql-calculator)    
 ## Security  
 * [Basic Intro to Elliptic Curve Cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)  
 * [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)   
