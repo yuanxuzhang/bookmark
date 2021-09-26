@@ -5,6 +5,7 @@
 * [Spring Core Tutorials](https://www.logicbig.com/tutorials/spring-framework/spring-core.html)  
 * [Spring Security Quick Start Example](https://www.logicbig.com/tutorials/spring-framework/spring-security/web-security-quick-start.html)   
 * [Java Design Patterns](https://java-design-patterns.com/)  
+* [Refactoring, design patterns, SOLID principles, and other smart programming topics](https://refactoring.guru/)   
 * [java-design-patterns-github](https://github.com/iluwatar/java-design-patterns)  
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
 ## Distributed System  
