@@ -9,6 +9,7 @@
 * [Refactoring, design patterns, SOLID principles, and other smart programming topics](https://refactoring.guru/)   
 * [java-design-patterns-github](https://github.com/iluwatar/java-design-patterns)  
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
+* [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 ## Distributed System  
 * [Choosing distribution models: master-slave versus peer-to-peer](https://sungsoo.github.io/2014/06/07/choosing-distribution-models-mater-slave-versus-peer-to-peer.html)  
 ## Principle  
