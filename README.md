@@ -154,6 +154,7 @@
 * [基于Kettle快速构建基础数据仓库平台](https://mp.weixin.qq.com/s/6Sw59ZkWgxV7zj9ljRva6Q)  
 * [KETTLE使用中的20个常见问题](https://www.freesion.com/article/6529696645/)  
 * [Data Synchronization: Patterns, Tools, & Techniques](https://www.datasyncbook.com/)  
+* [Apache Hop, short for Hop Orchestration Platform](https://hop.apache.org/manual/latest/getting-started/hop-what-is-hop.html)  
 ## Schedule
 * [airflow](http://airflow.apache.org/)  
 * [xxl-job](https://github.com/xuxueli/xxl-job)  
