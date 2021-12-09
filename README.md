@@ -250,6 +250,7 @@
 ## Java-Spring  
 * [Spring Boot深度实践之自动装配](https://mp.weixin.qq.com/s/RDSd5_gLwCaloOgg9lJMIA)    
 * [Spring Tutorial](https://www.javatpoint.com/spring-tutorial)  
+* [Validating RequestParams and PathVariables in Spring](https://www.baeldung.com/spring-validate-requestparam-pathvariable)  
 ## Tomcat  
 * [Apache Tomcat resources](https://www.mulesoft.com/tcat/understanding-apache-tomcat)  
 * [Understanding the Tomcat classpath - Common problems and how to fix them](https://www.mulesoft.com/tcat/tomcat-classpath)  
