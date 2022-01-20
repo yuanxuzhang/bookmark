@@ -14,6 +14,9 @@
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
+## Language Recognition  
+* [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://github.com/antlr/antlr4)  
+* [The Apache OpenNLP library is a machine learning based toolkit for the processing of natural language text](https://opennlp.apache.org/)   
 ## Distributed System  
 * [Choosing distribution models: master-slave versus peer-to-peer](https://sungsoo.github.io/2014/06/07/choosing-distribution-models-mater-slave-versus-peer-to-peer.html)  
 ## Principle  
