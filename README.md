@@ -152,6 +152,7 @@
 * [How to use Kettle to import data in Neo4j](https://www.bsimard.com/2018/09/03/kettle-neo4j.html)  
 * [missfoxw使用总结](https://missfoxw.github.io/pdi-kettle/#/JavaScript%E7%BB%84%E4%BB%B6/README)  
 * [canal](https://github.com/alibaba/canal)  
+* [debezium](https://debezium.io/)  
 * [Maxwell's daemon, a mysql-to-json kafka producer](https://github.com/zendesk/maxwell)  
 * [About Source-agnostic distributed change data capture system](https://github.com/linkedin/databus)  
 * [ogg-Introduction to Oracle GoldenGate](https://docs.oracle.com/goldengate/1212/gg-winux/GWUAD/wu_about_gg.htm#GWUAD110)  
