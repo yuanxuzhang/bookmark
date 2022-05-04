@@ -239,6 +239,8 @@
 * [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)  
 * [magicalcoder](http://lowcode.magicalcoder.com/magicalcoder/index-layui.html)  
 * [Domain-Driven-Design](https://docs.abp.io/en/abp/master/Domain-Driven-Design)   
+* [amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)  
+* [TMagic 可视化搭建平台](https://github.com/Tencent/tmagic-editor)  
 ## Report  
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
