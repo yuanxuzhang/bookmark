@@ -1,4 +1,5 @@
 ## 
+* [linkedin](https://www.linkedin.com/jobs/)  
 * [onboard](https://github.com/bannedbook/fanqiang)  
 * [shadowsocks](https://portal.shadowsocks.nz/)  
 * [Protocol Buffers - Google's data interchange format](https://github.com/protocolbuffers/protobuf)  
