@@ -1,4 +1,5 @@
 ## 
+* [MySQL index principle and Practice](https://programs.wiki/wiki/mysql-index-principle-and-practice.html)  
 * [A list of semi to fully remote-friendly companies (jobs) in tech](https://github.com/remoteintech/remote-jobs)  
 * [What Is a Database Index, and What Does It Do?](https://www.vertabelo.com/blog/what-is-database-index/)  
 * [linkedin](https://www.linkedin.com/jobs/)  
