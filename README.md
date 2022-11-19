@@ -53,6 +53,7 @@
 * [What is http multipart request?](https://9to5answer.com/what-is-http-multipart-request)  
 * [Understanding HTML Form Encoding: URL Encoded and Multipart Forms](https://www.geeksforgeeks.org/understanding-html-form-encoding-url-encoded-and-multipart-forms/?ref=rp)  
 * [Explain the concept of URL Encoding & Describe the need for encoding in HTML](https://www.geeksforgeeks.org/explain-the-concept-of-url-encoding-describe-the-need-for-encoding-in-html/?ref=rp)  
+* [How does HTTP file upload work?](https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work)  
 ## Javascript  
 * [cross-window-communication](https://javascript.info/cross-window-communication)  
 * [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
