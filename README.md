@@ -50,6 +50,8 @@
 * [Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content](https://tools.ietf.org/html/rfc7231#page-38)  
 * [Cross Site Request Forgery (CSRF)](https://owasp.org/www-community/attacks/csrf)  
 * [Browser support tables for modern web technologies](https://caniuse.com/)  
+* [What is http multipart request?](https://9to5answer.com/what-is-http-multipart-request)  
+* [Understanding HTML Form Encoding: URL Encoded and Multipart Forms](https://www.geeksforgeeks.org/understanding-html-form-encoding-url-encoded-and-multipart-forms/?ref=rp)  
 ## Javascript  
 * [cross-window-communication](https://javascript.info/cross-window-communication)  
 * [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
