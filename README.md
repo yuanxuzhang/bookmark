@@ -27,6 +27,7 @@
 * [Using SVG and Vue.js: A complete guide](https://blog.logrocket.com/using-svg-and-vue-js-a-complete-guide/)  
 * [Node.js tool for optimizing SVG files](https://github.com/svg/svgo)  
 * [Web GUI for SVGO](https://github.com/jakearchibald/svgomg)  
+* [tool boxy-svg](https://boxy-svg.com/app)  
 ## Language Recognition  
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://github.com/antlr/antlr4)  
 * [sql-grammars-v4](https://github.com/antlr/grammars-v4/tree/master/sql)  
