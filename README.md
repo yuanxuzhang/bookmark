@@ -22,7 +22,9 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
-## SVG  
+## SVG 
+* [awesome-svg About A curated list of SVG.](https://github.com/willianjusten/awesome-svg)  
+* [Using SVG and Vue.js: A complete guide](https://blog.logrocket.com/using-svg-and-vue-js-a-complete-guide/)  
 * [Node.js tool for optimizing SVG files](https://github.com/svg/svgo)  
 * [Web GUI for SVGO](https://github.com/jakearchibald/svgomg)  
 ## Language Recognition  
