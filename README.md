@@ -30,6 +30,7 @@
 * [Node.js tool for optimizing SVG files](https://github.com/svg/svgo)  
 * [Web GUI for SVGO](https://github.com/jakearchibald/svgomg)  
 * [tool boxy-svg](https://boxy-svg.com/app)  
+* [svg-essentials-examples](https://github.com/oreillymedia/svg-essentials-examples)  
 ## Language Recognition  
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://github.com/antlr/antlr4)  
 * [sql-grammars-v4](https://github.com/antlr/grammars-v4/tree/master/sql)  
