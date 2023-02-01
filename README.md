@@ -22,6 +22,8 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
+## EDITOR  
+* [Betting on CodeMirror](https://blog.replit.com/codemirror)  
 ## SVG 
 * [awesome-svg About A curated list of SVG.](https://github.com/willianjusten/awesome-svg)  
 * [W3C SCALABLE VECTOR GRAPHICS (SVG)](https://www.w3.org/Graphics/SVG/Overview.html)  
