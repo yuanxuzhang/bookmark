@@ -1,5 +1,6 @@
 ## 
 * [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/index)  
+* [Maven Dependency Scopes](https://www.baeldung.com/maven-dependency-scopes)  
 * [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)  
 * [MySQL index principle and Practice](https://programs.wiki/wiki/mysql-index-principle-and-practice.html)  
 * [A list of semi to fully remote-friendly companies (jobs) in tech](https://github.com/remoteintech/remote-jobs)  
