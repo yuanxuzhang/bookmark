@@ -1,4 +1,5 @@
 ## 
+* [All-in-one chatbot client](https://github.com/chathub-dev/chathub)  
 * [国家标准全文公开系统](https://openstd.samr.gov.cn/bzgk/gb/index)  
 * [Maven Dependency Scopes](https://www.baeldung.com/maven-dependency-scopes)  
 * [Programmers-Overseas-Job-Interview-Handbook](https://github.com/eliaszon/Programmers-Overseas-Job-Interview-Handbook)  
