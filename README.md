@@ -143,6 +143,7 @@
 * [asm](https://asm.ow2.io/)  
 * [arthas-online-diagnose](https://github.com/alibaba/arthas)  
 ## JDBC  
+* [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)  
 * [Java JDBC](http://tutorials.jenkov.com/jdbc/index.html)  
 * [Java DB Technical Documentation](https://docs.oracle.com/javadb/)  
 * [MySQL Connector/J 5.1 Developer Guide](https://dev.mysql.com/doc/connector-j/5.1/en/)   
