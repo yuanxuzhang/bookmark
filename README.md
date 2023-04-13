@@ -29,6 +29,8 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
+## GPT
+* [An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)  
 ## EDITOR  
 * [Betting on CodeMirror](https://blog.replit.com/codemirror)  
 * [CodeMirror6 vue2 demo](https://github.com/yi-you/CodeMirror6-vue2-demo)  
