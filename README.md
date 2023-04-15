@@ -1,4 +1,5 @@
 ## 
+* [Monitoring and Management Using JMX Technology](https://docs.oracle.com/javase/7/docs/technotes/guides/management/agent.html)  
 * [Managing Metadata (File and File Store Attributes)](https://docs.oracle.com/javase/tutorial/essential/io/fileAttr.html)  
 * [Hessian 2.0 Serialization Protocol](http://hessian.caucho.com/doc/hessian-serialization.html)  
 * [ddiu8081](https://github.com/ddiu8081/chatgpt-demo)  
