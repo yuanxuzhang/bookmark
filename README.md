@@ -216,6 +216,7 @@
 * [magicalcoder](http://lowcode.magicalcoder.com/element?from=oschina)   
 * [magicalcoder](http://bbs.magicalcoder.com/)  
 ## JAVA  
+* [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
 * [The Java SE Monitoring and Management Guide](https://docs.oracle.com/javase/7/docs/technotes/guides/management/preface.html)  
 * [oracle-java8](https://docs.oracle.com/javase/8/)  
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
