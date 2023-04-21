@@ -208,6 +208,7 @@
 * [Data Synchronization: Patterns, Tools, & Techniques](https://www.datasyncbook.com/)  
 * [Apache Hop, short for Hop Orchestration Platform](https://hop.apache.org/manual/latest/getting-started/hop-what-is-hop.html)  
 * [young-datafan](https://github.com/young-datafan-ooooo1/data-integration)  
+* [DataCap is integrated software for data transformation, integration and visualization](https://github.com/EdurtIO/datacap)  
 ## Schedule
 * [airflow](http://airflow.apache.org/)  
 * [xxl-job](https://github.com/xuxueli/xxl-job)  
