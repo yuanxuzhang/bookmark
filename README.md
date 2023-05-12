@@ -32,6 +32,8 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
+## KAFKA  
+* [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/))  
 ## GPT
 * [An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)  
 ## EDITOR  
