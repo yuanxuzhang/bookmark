@@ -383,6 +383,7 @@
 * [Basic Intro to Elliptic Curve Cryptography](https://qvault.io/cryptography/elliptic-curve-cryptography/)  
 * [A (relatively easy to understand) primer on elliptic curve cryptography](https://arstechnica.com/information-technology/2013/10/a-relatively-easy-to-understand-primer-on-elliptic-curve-cryptography/2/)   
 * [Simple PKI(Private-CA)](https://pki-tutorial.readthedocs.io/en/latest/simple/index.html#)  
+* [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 ## PPT  
 * [阿里巴巴矢量图标库](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)  
 * [Free Google Slides and PowerPoint templates to boost your presentations](https://slidesgo.com/)  
