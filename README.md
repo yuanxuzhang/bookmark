@@ -294,6 +294,7 @@
 * [amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)  
 * [TMagic 可视化搭建平台](https://github.com/Tencent/tmagic-editor)  
 ## Report  
+* [人人可用的开源数据可视化分析工具](https://github.com/dataease/dataease/)   
 * [reportserver](https://reportserver.net/en/)  
 * [jxls](http://jxls.sourceforge.net/index.html)  
 * [easypoi](https://gitee.com/lemur/easypoi)  
