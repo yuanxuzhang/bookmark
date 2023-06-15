@@ -391,7 +391,11 @@
 * [阿里巴巴矢量图标库](https://www.iconfont.cn/home/index?spm=a313x.7781069.1998910419.2)  
 * [Free Google Slides and PowerPoint templates to boost your presentations](https://slidesgo.com/)  
 * [Free PPT templates & Google Slides themes for your presentations](https://www.slidescarnival.com/)  
-* [创贴课](https://www.chuangkit.com/designtools/designindex)  
+* [创贴课](https://www.chuangkit.com/designtools/designindex)
+## object storage service  
+* [What Is Object Storage?](https://www.purestorage.com/knowledge/what-is-object-storage.html)
+* [apache ozone](https://github.com/apache/ozone)
+* [High Performance Object Storage for AI](https://github.com/minio/minio)  
 ## OTHER
 * [temporary-phone-number](https://temporary-phone-number.com/)  
 
