@@ -395,7 +395,8 @@
 ## object storage service  
 * [What Is Object Storage?](https://www.purestorage.com/knowledge/what-is-object-storage.html)
 * [apache ozone](https://github.com/apache/ozone)
-* [High Performance Object Storage for AI](https://github.com/minio/minio)  
+* [High Performance Object Storage for AI](https://github.com/minio/minio)
+* [块存储、文件存储、对象存储这三者的本质差别是什么？](https://www.zhihu.com/question/21536660)  
 ## OTHER
 * [temporary-phone-number](https://temporary-phone-number.com/)  
 
