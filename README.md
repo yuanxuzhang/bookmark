@@ -276,16 +276,6 @@
 ## Unit Test 
 * [关于java 单元测试Junit4和Mock的一些总结](https://www.cnblogs.com/wuyun-blog/p/7081548.html)  
 * [mockito](https://www.javadoc.io/doc/org.mockito/mockito-core/2.8.47/org/mockito/Mockito.html)  
-## 数据开发  
-* [abstract-awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) 
-* [BI工程师、数据仓库工程师、ETL工程师、数据开发工程师](https://www.zhihu.com/question/37411491)  
-* [business-intelligence](https://github.com/topics/business-intelligence?o=desc&s=stars)  
-* [incubator-superset](https://github.com/apache/incubator-superset)  
-* [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)  
-* [grafana](https://github.com/grafana/grafana)  
-* [利用 Kettle + Redash 搭建简单的 BI 系统](https://blog.csdn.net/spardon/article/details/78394868)  
-* [ELKI Data Mining Toolkit](https://github.com/elki-project/elki)  
-* [Davinci is a DVsaaS (Data Visualization as a Service)](Platform  https://github.com/edp963/davinci)  
 ## design-patterns  
 * [java-design-patterns](https://github.com/iluwatar/java-design-patterns)  
 ## DomainModel  
@@ -396,7 +386,19 @@
 * [What Is Object Storage?](https://www.purestorage.com/knowledge/what-is-object-storage.html)
 * [apache ozone](https://github.com/apache/ozone)
 * [High Performance Object Storage for AI](https://github.com/minio/minio)
-* [块存储、文件存储、对象存储这三者的本质差别是什么？](https://www.zhihu.com/question/21536660)  
+* [块存储、文件存储、对象存储这三者的本质差别是什么？](https://www.zhihu.com/question/21536660)
+## 数据开发  
+* [abstract-awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) 
+* [BI工程师、数据仓库工程师、ETL工程师、数据开发工程师](https://www.zhihu.com/question/37411491)  
+* [business-intelligence](https://github.com/topics/business-intelligence?o=desc&s=stars)  
+* [incubator-superset](https://github.com/apache/incubator-superset)  
+* [The simplest, fastest way to get business intelligence and analytics to everyone in your company](https://github.com/metabase/metabase)  
+* [grafana](https://github.com/grafana/grafana)  
+* [利用 Kettle + Redash 搭建简单的 BI 系统](https://blog.csdn.net/spardon/article/details/78394868)  
+* [ELKI Data Mining Toolkit](https://github.com/elki-project/elki)  
+* [Davinci is a DVsaaS -- Data Visualization as a Service](https://github.com/edp963/davinci)  
+* [H3C 绿洲融合集成平台](https://www.h3c.com/cn/Service/Document_Software/Document_Center/Big_Data/Catalog/H3C_LZRH/H3C_LZRH/?CHID=482290&v=612)
+* [华为数据治理中心](https://support.huaweicloud.com/dataartsstudio/index.html)   
 ## OTHER
 * [temporary-phone-number](https://temporary-phone-number.com/)  
 
