@@ -399,7 +399,9 @@
 * [ELKI Data Mining Toolkit](https://github.com/elki-project/elki)  
 * [Davinci is a DVsaaS -- Data Visualization as a Service](https://github.com/edp963/davinci)  
 * [H3C 绿洲融合集成平台](https://www.h3c.com/cn/Service/Document_Software/Document_Center/Big_Data/Catalog/H3C_LZRH/H3C_LZRH/?CHID=482290&v=612)
-* [华为数据治理中心](https://support.huaweicloud.com/dataartsstudio/index.html)   
+* [华为数据治理中心](https://support.huaweicloud.com/dataartsstudio/index.html)
+## DM  
+* [组合索引的应用](https://eco.dameng.com/community/article/cc40f1020a0f46321e647193c7aab4a0)  
 ## OTHER
 * [temporary-phone-number](https://temporary-phone-number.com/)  
 
