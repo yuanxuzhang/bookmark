@@ -232,7 +232,8 @@
 * [java-tutorials-home](https://data-flair.training/blogs/java-tutorials-home/#tutorials)  
 * [Tutorials for Software Developers and Technopreneurs](http://tutorials.jenkov.com/)  
 * [Tech Tutorials](https://www.netjstech.com/2015/05/java-advanced-topics.html)  
-* [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)  
+* [廖雪峰](https://www.liaoxuefeng.com/wiki/1252599548343744)
+* [The jar Command](https://docs.oracle.com/en/java/javase/17/docs/specs/man/jar.html)  
 ## JAVAEE  
 * [javaee](https://docs.oracle.com/javaee/7/index.html)  
 ## JNDI  
