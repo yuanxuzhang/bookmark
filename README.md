@@ -35,7 +35,8 @@
 ## 数据治理  
 * [datagovernance](https://datagovernance.com/)  
 ## KAFKA  
-* [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/))  
+* [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/)
+* [Setup a Three-Node Kafka KRaft Cluster for Scalable Data Streaming](https://kifarunix.com/setup-a-three-node-kafka-kraft-cluster/)  
 ## GPT
 * [An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)  
 ## EDITOR  
