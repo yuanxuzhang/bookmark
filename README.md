@@ -42,7 +42,8 @@
 ## EDITOR  
 * [Betting on CodeMirror](https://blog.replit.com/codemirror)  
 * [CodeMirror6 vue2 demo](https://github.com/yi-you/CodeMirror6-vue2-demo)  
-* [sql-formatter A whitespace formatter for different query languages](https://github.com/sql-formatter-org/sql-formatter)  
+* [sql-formatter A whitespace formatter for different query languages](https://github.com/sql-formatter-org/sql-formatter)
+* [JSON-LD property hinter for CodeMirror](https://github.com/WileyLabs/codemirror-jsonld-hint)   
 ## SVG 
 * [awesome-svg About A curated list of SVG.](https://github.com/willianjusten/awesome-svg)  
 * [W3C SCALABLE VECTOR GRAPHICS (SVG)](https://www.w3.org/Graphics/SVG/Overview.html)  
