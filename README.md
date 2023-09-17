@@ -224,7 +224,8 @@
 ## 代码生成器  
 * [ibootstrap](http://www.ibootstrap.cn/)  
 * [magicalcoder](http://lowcode.magicalcoder.com/element?from=oschina)   
-* [magicalcoder](http://bbs.magicalcoder.com/)  
+* [magicalcoder](http://bbs.magicalcoder.com/)
+* [Querydsl is a framework which enables the construction of type-safe SQL-like queries for multiple backends including JPA, MongoDB and SQL in Java](https://github.com/querydsl/querydsl)   
 ## JAVA  
 * [javase-tutorial](https://docs.oracle.com/javase/tutorial/)  
 * [The Java SE Monitoring and Management Guide](https://docs.oracle.com/javase/7/docs/technotes/guides/management/preface.html)  
