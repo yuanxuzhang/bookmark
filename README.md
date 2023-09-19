@@ -128,6 +128,7 @@
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
 * [浅谈NIO与零拷贝](https://juejin.im/post/5c1c532551882579520b1f47)  
 ## JVM  
+* [Native Operating System and Hardware Information](https://github.com/oshi/oshi)  
 * [How JVM Works – JVM Architecture?](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)  
 * [Object类中的registerNatives方法的作用深入介绍](https://blog.csdn.net/Saintyyu/article/details/90452826)  
 * [jclasslib bytecode viewer](https://github.com/ingokegel/jclasslib)  
