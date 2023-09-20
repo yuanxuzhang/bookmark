@@ -129,7 +129,8 @@
 * [浅谈NIO与零拷贝](https://juejin.im/post/5c1c532551882579520b1f47)  
 ## JVM  
 * [Native Operating System and Hardware Information](https://github.com/oshi/oshi)
-* [An application observability facade for the most popular observability tools. Think SLF4J, but for observability.](https://github.com/micrometer-metrics/micrometer)  
+* [An application observability facade for the most popular observability tools. Think SLF4J, but for observability.](https://github.com/micrometer-metrics/micrometer)
+* [Java Management Extensions (JMX) Examples](https://docs.oracle.com/javase/8/docs/technotes/guides/jmx/examples.html)  
 * [How JVM Works – JVM Architecture?](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)  
 * [Object类中的registerNatives方法的作用深入介绍](https://blog.csdn.net/Saintyyu/article/details/90452826)  
 * [jclasslib bytecode viewer](https://github.com/ingokegel/jclasslib)  
