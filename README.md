@@ -98,6 +98,7 @@
 * [zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting](https://www.bytesville.com/zuul-spring-cloud-gateway-comparison-benchmarks-loadtesting/)  
 * [Spring Cloud Gateway, Zuul, EdgeService performance comparison](https://www.programmersought.com/article/97353500360/)  
 ## Authentication&Authorization auth  
+* [Simple Authentication and Security Layer (SASL) Mechanisms](http://www.iana.org/assignments/sasl-mechanisms/sasl-mechanisms.xhtml)  
 * [Java Authentication and Authorization Service (JAAS) Reference Guide](https://docs.oracle.com/javase/8/docs/technotes/guides/security/jaas/JAASRefGuide.html)  
 * [AthenZ Service Authentication & Role-Based Authorization (RBAC)](https://github.com/AthenZ/athenz)  
 * [hdiv](https://github.com/hdiv/hdiv)  
