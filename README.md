@@ -132,6 +132,7 @@
 ## JVM  
 * [Native Operating System and Hardware Information](https://github.com/oshi/oshi)
 * [An application observability facade for the most popular observability tools. Think SLF4J, but for observability.](https://github.com/micrometer-metrics/micrometer)
+* [Java Management Extensions (JMX) Technology Tutorial](https://docs.oracle.com/javase/1.5.0/docs/guide/jmx/tutorial/tutorialTOC.html)  
 * [Getting Started with Java Management Extensions (JMX): Developing Management and Monitoring Solutions](https://www.oracle.com/technical-resources/articles/javase/jmx.html)  
 * [Java Management Extensions (JMX) Examples](https://docs.oracle.com/javase/8/docs/technotes/guides/jmx/examples.html)  
 * [How JVM Works – JVM Architecture?](https://www.geeksforgeeks.org/jvm-works-jvm-architecture/)  
