@@ -162,6 +162,7 @@
 * [asm](https://asm.ow2.io/)  
 * [arthas-online-diagnose](https://github.com/alibaba/arthas)  
 ## JDBC  
+* [JDBC™ 4.1 Specification](https://download.oracle.com/otn-pub/jcp/jdbc-4_1-mrel-spec/jdbc4.1-fr-spec.pdf?AuthPar)  
 * [java-Using Transactions](https://docs.oracle.com/javase/tutorial/jdbc/basics/transactions.html)  
 * [Transaction Isolation-postgresql](https://www.postgresql.org/docs/9.5/transaction-iso.html)  
 * [Spring Transaction Management: @Transactional In-Depth](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)  
