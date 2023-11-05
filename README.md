@@ -34,7 +34,10 @@
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
 ## 数据治理  
-* [datagovernance](https://datagovernance.com/)  
+* [datagovernance](https://datagovernance.com/)
+## IO  
+* [Java NIO Tutorial](https://jenkov.com/tutorials/java-nio/index.html)
+* [About'Java sockets I/O: blocking, non-blocking and asynchronous' article and source code](https://github.com/aliakh/demo-sockets-io-nio-nio2)  
 ## KAFKA  
 * [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/)
 * [Setup a Three-Node Kafka KRaft Cluster for Scalable Data Streaming](https://kifarunix.com/setup-a-three-node-kafka-kraft-cluster/)  
