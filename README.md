@@ -37,7 +37,8 @@
 * [datagovernance](https://datagovernance.com/)
 ## IO  
 * [Java NIO Tutorial](https://jenkov.com/tutorials/java-nio/index.html)
-* [About'Java sockets I/O: blocking, non-blocking and asynchronous' article and source code](https://github.com/aliakh/demo-sockets-io-nio-nio2)  
+* [About'Java sockets I/O: blocking, non-blocking and asynchronous' article and source code](https://github.com/aliakh/demo-sockets-io-nio-nio2)
+* [The C10K problem](http://www.kegel.com/c10k.html)  
 ## KAFKA  
 * [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/)
 * [Setup a Three-Node Kafka KRaft Cluster for Scalable Data Streaming](https://kifarunix.com/setup-a-three-node-kafka-kraft-cluster/)  
