@@ -43,7 +43,8 @@
 * [kafka-console-producer -batch-size](https://strimzi.io/blog/2021/12/17/kafka-segment-retention/)
 * [Setup a Three-Node Kafka KRaft Cluster for Scalable Data Streaming](https://kifarunix.com/setup-a-three-node-kafka-kraft-cluster/)
 * [Overview of UI Tools for Monitoring and Management of Apache Kafka Clusters](https://towardsdatascience.com/overview-of-ui-tools-for-monitoring-and-management-of-apache-kafka-clusters-8c383f897e80)
-* [公网 SASL_PLAINTEXT 方式接入](https://cloud.tencent.com/document/product/597/54867)  
+* [tencent公网 SASL_PLAINTEXT 方式接入](https://cloud.tencent.com/document/product/597/54867)
+* [火山引擎SASL_PLAINTEXT 接入点 PLAIN 机制收发消息](https://www.volcengine.com/docs/6439/192756#_2-%E6%B6%88%E8%B4%B9%E6%B6%88%E6%81%AF)  
 ## GPT
 * [An experimental open-source attempt to make GPT-4 fully autonomous](https://github.com/Torantulino/Auto-GPT)  
 ## EDITOR  
