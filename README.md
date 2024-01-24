@@ -287,6 +287,7 @@
 * [CAP theorem - Availability and Partition Tolerance](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance?r=SearchResults)  
 * [pig](https://pig4cloud.com/)  
 ## Workflow  
+* [全网最详bpmn.js教材目录](https://juejin.cn/post/6844904045841219591)  
 * [Activiti 5.22 框架数据库设计说明](http://lucaslz.com/2016/11/15/java/activiti/activiti-db-5-22/#more)  
 * [lemon](http://www.mossle.com/index.do)  
 * [activiti designer without eclipse](https://stackoverflow.com/questions/51930492/activiti-designer-without-eclipse)  
