@@ -99,6 +99,7 @@
 * [Explain the concept of URL Encoding & Describe the need for encoding in HTML](https://www.geeksforgeeks.org/explain-the-concept-of-url-encoding-describe-the-need-for-encoding-in-html/?ref=rp)  
 * [How does HTTP file upload work?](https://stackoverflow.com/questions/8659808/how-does-http-file-upload-work)  
 ## Javascript  
+* [JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)  
 * [cross-window-communication](https://javascript.info/cross-window-communication)  
 * [CommonJS规范](https://javascript.ruanyifeng.com/nodejs/module.html#toc0)   
 * [AMD 规范](https://github.com/amdjs/amdjs-api/wiki/AMD-(%E4%B8%AD%E6%96%87%E7%89%88))  
