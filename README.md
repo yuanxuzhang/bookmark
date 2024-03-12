@@ -314,6 +314,7 @@
 * [amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)  
 * [TMagic 可视化搭建平台](https://github.com/Tencent/tmagic-editor)  
 ## Report  
+* [docx-preview](https://www.npmjs.com/package/docx-preview)  
 * [一个还算强大的Web思维导图](https://github.com/wanglin2/mind-map)  
 * [luckysheet-demo 在线excel表格编辑，可以导入导出excel](https://gitee.com/yaoshanli/luckysheet-demo.git)
 * [Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/dream-num/Luckysheet)  
