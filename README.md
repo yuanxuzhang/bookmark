@@ -314,6 +314,7 @@
 * [amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)  
 * [TMagic 可视化搭建平台](https://github.com/Tencent/tmagic-editor)  
 ## Report  
+* [Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)  
 * [The JavaScript API for Office enables you to create web applications that interact with the object models in Office host applications.](https://github.com/OfficeDev/office-js)  
 * [docx-preview](https://www.npmjs.com/package/docx-preview)  
 * [一个还算强大的Web思维导图](https://github.com/wanglin2/mind-map)  
