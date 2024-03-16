@@ -314,6 +314,7 @@
 * [amis-前端低代码框架，通过 JSON 配置就能生成各种页面](https://github.com/baidu/amis)  
 * [TMagic 可视化搭建平台](https://github.com/Tencent/tmagic-editor)  
 ## Report  
+* [The Apache Tika toolkit detects and extracts metadata and text from over a thousand different file types (such as PPT, XLS, and PDF)](https://github.com/apache/tika)  
 * [Office Open XML, also known as OpenXML or OOXML, is an XML-based format for office documents, including word processing documents, spreadsheets, presentations, as well as charts, diagrams, shapes, and other graphical material.](http://officeopenxml.com/)  
 * [Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.](https://github.com/ckeditor/ckeditor5)  
 * [Easily generate and modify .docx files with JS/TS with a nice declarative API. Works for Node and on the Browser.](https://github.com/dolanmiu/docx)  
