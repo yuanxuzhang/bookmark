@@ -349,7 +349,12 @@
 * [ireport-designer](https://community.jaspersoft.com/project/ireport-designer)  
 * [itext7](https://github.com/itext/itext7)  
 * [Java PDF Generation with IText](http://tutorials.jenkov.com/java-itext/index.html)  
-* [UReport2是一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表](https://github.com/youseries/ureport)  
+* [UReport2是一款高性能的架构在Spring之上纯Java报表引擎，通过迭代单元格可以实现任意复杂的中国式报表](https://github.com/youseries/ureport)
+* [Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.](https://github.com/dream-num/Luckysheet)  
+* [x-sheet](https://github.com/jerry-TangHao/x-sheet)
+* [x-spreadsheet](https://github.com/myliang/x-spreadsheet)   
+* [exceljs Excel Workbook Manager](https://github.com/exceljs/exceljs)
+* [sheetjs-Spreadsheet Data Toolkit](https://git.sheetjs.com/sheetjs/sheetjs)   
 ## IDE  
 * [eclipse-maven-web-setting](https://www.cnblogs.com/hongmoshui/p/7994759.html)    
 * [build-tool-plugins-maven-packaging](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/#build-tool-plugins-maven-packaging)  
