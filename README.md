@@ -124,7 +124,8 @@
 * [How to Implement ABAC Access Control using NGAC](https://stackoverflow.com/questions/61310308/how-to-implement-abac-access-control-using-ngac)  
 * [Core components of the Policy Machine, a NGAC reference implementation](https://github.com/PM-Master/policy-machine-core)
 * [www.kerberos.org](https://www.kerberos.org/index.html)
-* [How Does Kerberos Work](https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/)  
+* [How Does Kerberos Work](https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/)
+* [第 6 部分 Kerberos 服务](https://docs.oracle.com/cd/E19253-01/819-7061/6n91j2vak/index.html)  
 ## Single sign on SSO  
 * [jose](https://jose.readthedocs.io/en/latest/)  
 * [开放授权-2-科普](http://www.ruanyifeng.com/blog/2019/04/oauth_design.html)  
