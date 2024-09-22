@@ -35,6 +35,9 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
+## WEB SERVICE  
+* [Invoking a SOAP Web Service in Java](https://www.baeldung.com/java-soap-web-service)
+* [Introduction to JAX-WS](https://www.baeldung.com/jax-ws)  
 ## 数据治理  
 * [datagovernance](https://datagovernance.com/)
 ## IO  
