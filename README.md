@@ -37,7 +37,8 @@
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
 ## WEB SERVICE  
 * [Invoking a SOAP Web Service in Java](https://www.baeldung.com/java-soap-web-service)
-* [Introduction to JAX-WS](https://www.baeldung.com/jax-ws)  
+* [Introduction to JAX-WS](https://www.baeldung.com/jax-ws)
+* [WebXml.com.cn 天气预报 Web 服务](www.webxml.com.cn/WebServices/WeatherWebService.asmx)  
 ## 数据治理  
 * [datagovernance](https://datagovernance.com/)
 ## IO  
