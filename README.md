@@ -36,6 +36,7 @@
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
 ## WEB SERVICE  
+* [Web Services Tutorial-javatpoint](https://www.javatpoint.com/web-services-tutorial)  
 * [Invoking a SOAP Web Service in Java](https://www.baeldung.com/java-soap-web-service)
 * [Introduction to JAX-WS](https://www.baeldung.com/jax-ws)
 * [WebXml.com.cn 天气预报 Web 服务](www.webxml.com.cn/WebServices/WeatherWebService.asmx)  
