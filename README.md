@@ -149,6 +149,7 @@
 * [Java NIO Tutorial](http://tutorials.jenkov.com/java-nio/index.html)  
 * [浅谈NIO与零拷贝](https://juejin.im/post/5c1c532551882579520b1f47)  
 ## JVM  
+* [How is the default max Java Heap size determined?](https://www.geeksforgeeks.org/how-is-the-default-max-java-heap-size-determined/)  
 * [Native Operating System and Hardware Information](https://github.com/oshi/oshi)
 * [An application observability facade for the most popular observability tools. Think SLF4J, but for observability.](https://github.com/micrometer-metrics/micrometer)
 * [Java Management Extensions (JMX) Technology Tutorial](https://docs.oracle.com/javase/1.5.0/docs/guide/jmx/tutorial/tutorialTOC.html)  
