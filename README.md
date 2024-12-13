@@ -36,7 +36,8 @@
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)
 ## JSON 
-* [avascript implementation of JMESPath, a query language for JSON](https://github.com/jmespath/jmespath.js)  
+* [is-there-a-query-language-for-json](https://stackoverflow.com/questions/777455/is-there-a-query-language-for-json)  
+* [javascript implementation of JMESPath, a query language for JSON](https://github.com/jmespath/jmespath.js)  
 ## WEB SERVICE  
 * [Web Services Tutorial-javatpoint](https://www.javatpoint.com/web-services-tutorial)  
 * [Invoking a SOAP Web Service in Java](https://www.baeldung.com/java-soap-web-service)
