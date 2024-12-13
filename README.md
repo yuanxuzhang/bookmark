@@ -34,7 +34,9 @@
 * [JavaGuide](https://github.com/Snailclimb/JavaGuide)  
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
-* [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)  
+* [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)
+## JSON 
+* [avascript implementation of JMESPath, a query language for JSON](https://github.com/jmespath/jmespath.js)  
 ## WEB SERVICE  
 * [Web Services Tutorial-javatpoint](https://www.javatpoint.com/web-services-tutorial)  
 * [Invoking a SOAP Web Service in Java](https://www.baeldung.com/java-soap-web-service)
