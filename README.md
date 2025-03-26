@@ -302,7 +302,8 @@
 * [CAP theorem - Availability and Partition Tolerance](https://stackoverflow.com/questions/12346326/cap-theorem-availability-and-partition-tolerance?r=SearchResults)  
 * [pig](https://pig4cloud.com/)
 * [NTP-What is LCL, the Local Clock?](https://www.ntp.org/ntpfaq/ntp-s-refclk/#711-what-is-lcl-the-local-clock)
-* [Chrony Isolated networks](https://chrony-project.org/doc/4.2/chrony.conf.html)  
+* [Chrony Isolated networks](https://chrony-project.org/doc/4.2/chrony.conf.html)
+* [ntpdate - set the date and time via NTP](https://www.ntp.org/documentation/4.1.0/ntpdate/)   
 ## Workflow  
 * [全网最详bpmn.js教材目录](https://juejin.cn/post/6844904045841219591)
 * [Bpmn.js简介与基础使用](https://juejin.cn/post/7064485347186442271)  
