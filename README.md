@@ -1,4 +1,5 @@
 ## 
+* [json-schema-inferrer](https://github.com/saasquatch/json-schema-inferrer)  
 * [chrony](https://chrony-project.org/documentation.html)  
 * [NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.](https://cn.nocobase.com/)  
 * [Virtual whiteboard for sketching hand-drawn like diagrams](https://github.com/excalidraw/excalidraw)  
