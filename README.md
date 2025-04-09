@@ -469,6 +469,7 @@
 * [High Performance Object Storage for AI](https://github.com/minio/minio)
 * [块存储、文件存储、对象存储这三者的本质差别是什么？](https://www.zhihu.com/question/21536660)
 ## 数据开发  
+* [Change data capture for a variety of databases. Please log issues at](https://github.com/debezium/debezium)  
 * [abstract-awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) 
 * [BI工程师、数据仓库工程师、ETL工程师、数据开发工程师](https://www.zhihu.com/question/37411491)  
 * [business-intelligence](https://github.com/topics/business-intelligence?o=desc&s=stars)  
