@@ -493,5 +493,6 @@
 * [temporary-phone-number](https://temporary-phone-number.com/)  
 ## Operation System  
 * [down 7.9](https://mirror.yandex.ru/centos/7.9.2009/isos/x86_64/)
-* [Installation of “CentOS 7.0″ with Screenshots](https://www.tecmint.com/centos-7-installation/)  
+* [Installation of “CentOS 7.0″ with Screenshots](https://www.tecmint.com/centos-7-installation/)
+* [Install Linux from USB Device or Boot into Live Mode Using Unetbootin and dd Command](https://www.tecmint.com/install-linux-from-usb-device/)   
 
