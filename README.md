@@ -491,5 +491,7 @@
 * [Apache Maven Archiver](https://maven.apache.org/shared/maven-archiver/index.html#)  
 ## OTHER
 * [temporary-phone-number](https://temporary-phone-number.com/)  
-
+## Operation System  
+* [down 7.9](https://mirror.yandex.ru/centos/7.9.2009/isos/x86_64/)
+* [Installation of “CentOS 7.0″ with Screenshots](https://www.tecmint.com/centos-7-installation/)  
 
