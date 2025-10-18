@@ -38,6 +38,8 @@
 * [Validating Spring MVC Request Mapping Method parameters](https://raymondhlee.wordpress.com/2015/08/29/validating-spring-mvc-request-mapping-method-parameters/)  
 * [The First Few Milliseconds of an HTTPS Connection](http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html)  
 * [manpagez: man pages & more man crontab](https://www.manpagez.com/man/5/crontab/)
+## AI  
+* [The Complete Guide to Embeddings and RAG: From Theory to Production](https://medium.com/@sharanharsoor/the-complete-guide-to-embeddings-and-rag-from-theory-to-production-758a16d747ac)  
 ## JSON 
 * [is-there-a-query-language-for-json](https://stackoverflow.com/questions/777455/is-there-a-query-language-for-json)  
 * [javascript implementation of JMESPath, a query language for JSON](https://github.com/jmespath/jmespath.js)  
